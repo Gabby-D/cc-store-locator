@@ -1,4 +1,4 @@
-import { APIKEY } from '../config/secrets'
+//import { APIKEY } from '../config/secrets'
 
 // Escapes HTML characters in a template literal string, to prevent XSS.
 // See https://www.owasp.org/index.php/XSS_%28Cross_Site_Scripting%29_Prevention_Cheat_Sheet#RULE_.231_-_HTML_Escape_Before_Inserting_Untrusted_Data_into_HTML_Element_Content
@@ -29,7 +29,7 @@ function initMap() {
   // Load the stores GeoJSON onto the map.
   map.data.loadGeoJson('cultcrackers_stores.json', {idPropertyName: 'storeid'});
 
-  const apiKey = APIKEY;
+  const apiKey = 'AIzaSyBIQdZr7wjKGqDQszvheEso-iXrUjNdteQ';
   const infoWindow = new google.maps.InfoWindow();
 
   // Show the information for a store when its marker is clicked.
@@ -78,10 +78,8 @@ function initMap() {
   // the user selects from the suggestions.
   const autocomplete = new google.maps.places.Autocomplete(input, options);
 
-  autocomplete.setFields(
-      ['address_components', 'geometry', 'name']);
-
-  // Set the origin point when the user selects an address
+  autocomplete.setFields(['address_components', 'geometry', 'name']);
+ // Set the origin point when the user selects an address
   const originMarker = new google.maps.Marker({
       map: map,
       icon: {
@@ -120,16 +118,6 @@ function initMap() {
     return;
   });
 }
-
-/**
- * Use Distance Matrix API to calculate distance from origin to each store.
- * @param {google.maps.Data} data The geospatial data object layer for the map
- * @param {google.maps.LatLng} origin Geographical coordinates in latitude
- * and longitude
- * @return {Promise<object[]>} n Promise fulfilled by an array of objects with
- * a distanceText, distanceVal, and storeid property, sorted ascending
- * by distanceVal.
- */
 async function calculateDistances(data, origin) {
   const stores = [];
   const destinations = [];
@@ -184,19 +172,12 @@ async function calculateDistances(data, origin) {
 
   return distancesList;
 }
-
-/**
- * Build the content of the side panel from the sorted list of stores
- * and display it.
- * @param {google.maps.Data} data The geospatial data object layer for the map
- * @param {object[]} stores An array of objects with a distanceText,
- * distanceVal, and storeid property.
- */
 function showStoresList(data, stores) {
   if (stores.length == 0) {
     console.log('empty stores');
     return;
-  } 
+  }
+
   let panel = document.createElement('div');
   // If the panel already exists, use it. Else, create it and add to the page.
   if (document.getElementById('panel')) {
@@ -217,9 +198,8 @@ function showStoresList(data, stores) {
     panel.removeChild(panel.lastChild);
   }
 
-  for (let i = 0; i < 10; i++) {
+  stores.forEach((store) => {
     // Add store details with text formatting
-    const store = stores[i]
     const name = document.createElement('p');
     name.classList.add('place');
     const currentStore = data.getFeatureById(store.storeid);
@@ -229,7 +209,7 @@ function showStoresList(data, stores) {
     distanceText.classList.add('distanceText');
     distanceText.textContent = store.distanceText;
     panel.appendChild(distanceText);
-  };
+  });
 
   // Open the panel
   panel.classList.add('open');
