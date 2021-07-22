@@ -1,3 +1,5 @@
 pandas
 geopy
 certifi
+openpyxl
+xlrd

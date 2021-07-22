@@ -7,6 +7,8 @@ import pandas as pd
 import os
 from time import sleep
 
+pd.set_option('display.max_columns',30)
+
 from config.secrets import APIKEY
 
 SRC_PATH = os.path.dirname(__file__)
@@ -22,15 +24,21 @@ def join_addrs(x):
 def convert_store_address():
     # Read stores data
     path = os.path.split(os.path.dirname(__file__))[0]
-    store_list_fn = os.path.join(path, 'new-store-list.tsv')
+    store_list_fn = os.path.join(path, r'resources', r'new-store-list.xlsx')
 
     # TODO: FIX COLUMNS
 
-    columns = ['name', 'street', 'city', 'state']
-    store_list_df = pd.read_csv(store_list_fn, sep='\t', names=columns)
-    store_list_df.fillna('', inplace=True)
+    # columns = ['name', 'street', 'city', 'state']
+    # store_list_df = pd.read_csv(store_list_fn, sep='\t', header=0)
+    assert os.path.isfile(store_list_fn)
+    print('Reading ',store_list_fn)
+    store_list_df = pd.read_excel(store_list_fn, engine='openpyxl')
+
+    # store_list_df.fillna('', inplace=True)
+    # store_list_df.dropna('', inplace=True)
+    store_list_df = store_list_df.iloc[:, :4].dropna()
     store_list_df = store_list_df.sort_values(['name'])
-    store_list_df['address'] = store_list_df[['street', 'city', 'state']].apply(join_addrs, axis=1)
+    # store_list_df['address'] = store_list_df[['street', 'city', 'state']].apply(join_addrs, axis=1)
     print(store_list_df.columns.to_list())
     print(store_list_df.head())
 
