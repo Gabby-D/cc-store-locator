@@ -21,7 +21,6 @@ function initMap() {
   // Create the map.
   const map = new google.maps.Map(document.getElementById('map'), {
     zoom: 4,
-//    mapId: 'e7240a58b1e14a70',
     center: {lat:40.933264, lng:-100.159467},
     streetViewControl: false,
     mapTypeControl: false
