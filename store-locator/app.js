@@ -29,7 +29,7 @@ function initMap() {
   // Load the stores GeoJSON onto the map.
   map.data.loadGeoJson('cultcrackers_stores.json', {idPropertyName: 'storeid'});
 
-  const apiKey = 'AIzaSyBIQdZr7wjKGqDQszvheEso-iXrUjNdteQ';
+  const apiKey = 'AIzaSyDbISFMmDKlHgtVeaNW3H8RSMjNrLqeV7U';
   const infoWindow = new google.maps.InfoWindow();
 
   // Show the information for a store when its marker is clicked.
