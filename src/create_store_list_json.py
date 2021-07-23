@@ -41,6 +41,7 @@ def convert_store_address():
     # store_list_df['address'] = store_list_df[['street', 'city', 'state']].apply(join_addrs, axis=1)
     print(store_list_df.columns.to_list())
     print(store_list_df.head())
+    assert store_list_df.columns.to_list() == ['name', 'address', 'longitude', 'latitude']
 
     # create store list json
     ctx = ssl.create_default_context(cafile=certifi.where())
@@ -50,6 +51,7 @@ def convert_store_address():
     print('Number of stores in file:', n_stores)
     store_addrs = []
     stores_without_location = 0
+    i = 1
     for storeid in range(n_stores):
         prop = {
             'category': 'grocery',
@@ -62,22 +64,27 @@ def convert_store_address():
             'lat': 0,
             'long': 0
         }
-        id = str(storeid + 1).zfill(3)
+        id = str(i).zfill(3)
         prop['storeid'] = id
         prop['name'] = store_list_df.iloc[storeid]['name']
         prop['address'] = store_list_df.iloc[storeid].address
-        try:
-            location = geolocator.geocode(prop['address'])
-            # location = geolocator.geocode(prop['address'], timeout=5)
-            prop['lat'] = location.latitude
-            prop['long'] = location.longitude
-        except Exception as e:
-            stores_without_location += 1
-            print(e)
-            print('No address for:', prop['name'])
-            print(prop['address'])
-        store_addrs.append(store_str.format(**prop))
-        sleep(0.5)
+        prop['lat'] = store_list_df.iloc[storeid].latitude
+        prop['long'] = store_list_df.iloc[storeid].longitude
+        if not prop['long']:
+            try:
+                location = geolocator.geocode(prop['address'])
+                # location = geolocator.geocode(prop['address'], timeout=5)
+                prop['lat'] = location.latitude
+                prop['long'] = location.longitude
+                sleep(0.5)
+            except Exception as e:
+                stores_without_location += 1
+                print(e)
+                print('No address for:', prop['name'])
+                print(prop['address'])
+        if prop['long']:
+            store_addrs.append(store_str.format(**prop))
+            i += 1
 
     json_file = out_start_str + ','.join(store_addrs) + out_end_str
     print('-' * 50)
