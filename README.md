@@ -12,7 +12,11 @@ Convert a CSV/TSV store address data to JSON formatted for a google map
 When changing the stores follow this process:
 - update stores  
   * Download the google sheet to an `xlsx` file 
-  * copy the new file into   
+  * change name to `new-store-list.xlsx`
+  * copy the new file into `C:\Users\gabby\Projects\cc-store-locator\resources`   
+  * run `create_store_list_json.py`  should create new "results.json"
+  * open `results.json` copy into `cultcrackers_stores.json` replacing everything in it
+  * push to git (right click `cc-store-locator` choose [git] -> [commit directory] -> [commit and push])
 
 Store locator link: 
 `https://storage.googleapis.com/cult-crackers-store-locator/index.html` 
