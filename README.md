@@ -16,7 +16,10 @@ When changing the stores follow this process:
   * copy the new file into `C:\Users\gabby\Projects\cc-store-locator\resources`   
   * run `create_store_list_json.py`  should create new "results.json"
   * open `results.json` copy into `cultcrackers_stores.json` replacing everything in it
-  * push to git (right click `cc-store-locator` choose [git] -> [commit directory] -> [commit and push])
+  * push to git (right click `cc-store-locator` choose [git] -> [commit directory] -> [commit and push] -> [push])
+  * 
+  *
+  *
 
 Store locator link: 
 `https://storage.googleapis.com/cult-crackers-store-locator/index.html` 

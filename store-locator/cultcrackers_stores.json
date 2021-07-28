@@ -1204,6 +1204,22 @@
 ,        {
             "geometry": {
                 "type": "Point",
+                "coordinates": [-106.318933914123, 42.8421504663293]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Grant Street Grocer",
+                "address": "815 S. Grant Ave Casper, WY 82601",
+                "phone": "",
+                "website": "",
+                "storeid": "076"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
                 "coordinates": [-123.806397725567, 39.4216136907544]
             },
             "type": "Feature",
@@ -1214,7 +1230,7 @@
                 "address": "171 Boatyard Dr, Fort Bragg, CA 95437",
                 "phone": "",
                 "website": "",
-                "storeid": "076"
+                "storeid": "077"
             }
        }
 ,        {
@@ -1230,7 +1246,7 @@
                 "address": "10501 Lansing St, Mendocino, CA 95460",
                 "phone": "",
                 "website": "",
-                "storeid": "077"
+                "storeid": "078"
             }
        }
 ,        {
@@ -1246,7 +1262,7 @@
                 "address": "2900 18th St, San Francisco, CA 94110",
                 "phone": "",
                 "website": "",
-                "storeid": "078"
+                "storeid": "079"
             }
        }
 ,        {
@@ -1262,7 +1278,7 @@
                 "address": "2 School St, Manchester-by-the-Sea, MA 01944",
                 "phone": "",
                 "website": "",
-                "storeid": "079"
+                "storeid": "080"
             }
        }
 ,        {
@@ -1278,7 +1294,7 @@
                 "address": "Freehold, NJ  ",
                 "phone": "",
                 "website": "",
-                "storeid": "080"
+                "storeid": "081"
             }
        }
 ,        {
@@ -1294,7 +1310,7 @@
                 "address": "610 1st St #18, Napa, CA 94559",
                 "phone": "",
                 "website": "",
-                "storeid": "081"
+                "storeid": "082"
             }
        }
 ,        {
@@ -1310,7 +1326,7 @@
                 "address": "1416 2nd St, Napa, CA 94559",
                 "phone": "",
                 "website": "",
-                "storeid": "082"
+                "storeid": "083"
             }
        }
 ,        {
@@ -1326,7 +1342,7 @@
                 "address": "4316 Telegraph Avenue Oakland CA",
                 "phone": "",
                 "website": "",
-                "storeid": "083"
+                "storeid": "084"
             }
        }
 ,        {
@@ -1342,7 +1358,7 @@
                 "address": "Emeryville CA 94608",
                 "phone": "",
                 "website": "",
-                "storeid": "084"
+                "storeid": "085"
             }
        }
 ,        {
@@ -1358,7 +1374,7 @@
                 "address": "242 North Avenue 25, Los Angeles, CA, 90031",
                 "phone": "",
                 "website": "",
-                "storeid": "085"
+                "storeid": "086"
             }
        }
 ,        {
@@ -1374,7 +1390,7 @@
                 "address": "3321 Lakeshore Ave, Oakland, CA 94610",
                 "phone": "",
                 "website": "",
-                "storeid": "086"
+                "storeid": "087"
             }
        }
 ,        {
@@ -1390,7 +1406,7 @@
                 "address": "1290 S 1100 E, Salt Lake City, UT 84105",
                 "phone": "",
                 "website": "",
-                "storeid": "087"
+                "storeid": "088"
             }
        }
 ,        {
@@ -1404,22 +1420,6 @@
                 "description": "",
                 "name": "Local Foods",
                 "address": "2424 Dunstan Rd, Houston, TX 77005",
-                "phone": "",
-                "website": "",
-                "storeid": "088"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.449686096607, 37.7650292234882]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Luke's Local",
-                "address": "960 Cole St, San Francisco, CA 94117",
                 "phone": "",
                 "website": "",
                 "storeid": "089"
@@ -1444,6 +1444,22 @@
 ,        {
             "geometry": {
                 "type": "Point",
+                "coordinates": [-122.449686096607, 37.7650292234882]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Luke's Local",
+                "address": "960 Cole St, San Francisco, CA 94117",
+                "phone": "",
+                "website": "",
+                "storeid": "091"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
                 "coordinates": [-122.639808718235, 38.2329412915994]
             },
             "type": "Feature",
@@ -1454,7 +1470,7 @@
                 "address": "25 4th St, Petaluma, CA 94952",
                 "phone": "",
                 "website": "",
-                "storeid": "091"
+                "storeid": "092"
             }
        }
 ,        {
@@ -1470,7 +1486,7 @@
                 "address": "655 22nd St, San Francisco, CA 94107",
                 "phone": "",
                 "website": "",
-                "storeid": "092"
+                "storeid": "093"
             }
        }
 ,        {
@@ -1486,7 +1502,7 @@
                 "address": "5427 Telegraph Ave D3  Oakland CA",
                 "phone": "",
                 "website": "",
-                "storeid": "093"
+                "storeid": "094"
             }
        }
 ,        {
@@ -1502,7 +1518,7 @@
                 "address": "720 West Main St  Bozeman MT",
                 "phone": "",
                 "website": "",
-                "storeid": "094"
+                "storeid": "095"
             }
        }
 ,        {
@@ -1518,7 +1534,7 @@
                 "address": "377 Fairfield Ave  Stamford CT",
                 "phone": "",
                 "website": "",
-                "storeid": "095"
+                "storeid": "096"
             }
        }
 ,        {
@@ -1534,7 +1550,7 @@
                 "address": "2106 Colorado Blvd  Los Angeles CA",
                 "phone": "",
                 "website": "",
-                "storeid": "096"
+                "storeid": "097"
             }
        }
 ,        {
@@ -1550,7 +1566,7 @@
                 "address": "12 Corte Madera Ave  Mill Valley CA",
                 "phone": "",
                 "website": "",
-                "storeid": "097"
+                "storeid": "098"
             }
        }
 ,        {
@@ -1566,71 +1582,7 @@
                 "address": "208 Davis St  Santa Rosa CA",
                 "phone": "",
                 "website": "",
-                "storeid": "098"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.4523297, 37.7447893999999]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Mollie Stone's Markets",
-                "address": "635 Portola Dr  San Francisco CA",
-                "phone": "",
-                "website": "",
                 "storeid": "099"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.2898904, 37.5292284]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Mollie Stone's Markets",
-                "address": "49 W 42nd Ave  San Mateo CA",
-                "phone": "",
-                "website": "",
-                "storeid": "100"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.142956, 37.4289511]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Mollie Stone's Markets",
-                "address": "164 California  Palo Alto CA",
-                "phone": "",
-                "website": "",
-                "storeid": "101"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.5243141, 37.9456634]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Mollie Stone's Markets",
-                "address": "270 Bon Air Center  Greenbrae CA",
-                "phone": "",
-                "website": "",
-                "storeid": "102"
             }
        }
 ,        {
@@ -1646,7 +1598,71 @@
                 "address": "100 Harbor Dr  Sausalito CA",
                 "phone": "",
                 "website": "",
+                "storeid": "100"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.4523297, 37.7447893999999]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Mollie Stone's Markets",
+                "address": "635 Portola Dr  San Francisco CA",
+                "phone": "",
+                "website": "",
+                "storeid": "101"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.142956, 37.4289511]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Mollie Stone's Markets",
+                "address": "164 California  Palo Alto CA",
+                "phone": "",
+                "website": "",
+                "storeid": "102"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.5243141, 37.9456634]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Mollie Stone's Markets",
+                "address": "270 Bon Air Center  Greenbrae CA",
+                "phone": "",
+                "website": "",
                 "storeid": "103"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.2898904, 37.5292284]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Mollie Stone's Markets",
+                "address": "49 W 42nd Ave  San Mateo CA",
+                "phone": "",
+                "website": "",
+                "storeid": "104"
             }
        }
 ,        {
@@ -1662,7 +1678,7 @@
                 "address": "4201 18th St  San Francisco CA",
                 "phone": "",
                 "website": "",
-                "storeid": "104"
+                "storeid": "105"
             }
        }
 ,        {
@@ -1678,7 +1694,7 @@
                 "address": "1477 Chapin Ave  Burlingame CA",
                 "phone": "",
                 "website": "",
-                "storeid": "105"
+                "storeid": "106"
             }
        }
 ,        {
@@ -1694,7 +1710,7 @@
                 "address": "22 Bayhill Shopping Center  San Bruno CA",
                 "phone": "",
                 "website": "",
-                "storeid": "106"
+                "storeid": "107"
             }
        }
 ,        {
@@ -1710,7 +1726,7 @@
                 "address": "2435 California Ave  San Francisco CA",
                 "phone": "",
                 "website": "",
-                "storeid": "107"
+                "storeid": "108"
             }
        }
 ,        {
@@ -1726,7 +1742,7 @@
                 "address": "1550 Hopkins St  Berkeley CA",
                 "phone": "",
                 "website": "",
-                "storeid": "108"
+                "storeid": "109"
             }
        }
 ,        {
@@ -1742,7 +1758,7 @@
                 "address": "49643 Twentynine Palms Highway, Morongo Valley, CA 92256",
                 "phone": "",
                 "website": "",
-                "storeid": "109"
+                "storeid": "110"
             }
        }
 ,        {
@@ -1758,7 +1774,7 @@
                 "address": "68 Jay St #316, Brooklyn, NY 11201",
                 "phone": "",
                 "website": "",
-                "storeid": "110"
+                "storeid": "111"
             }
        }
 ,        {
@@ -1774,7 +1790,7 @@
                 "address": "440 Grand Ave, Oakland, CA 94610",
                 "phone": "",
                 "website": "",
-                "storeid": "111"
+                "storeid": "112"
             }
        }
 ,        {
@@ -1790,7 +1806,7 @@
                 "address": "San Francisco International Airport International Terminal G  San Francisco CA",
                 "phone": "",
                 "website": "",
-                "storeid": "112"
+                "storeid": "113"
             }
        }
 ,        {
@@ -1806,7 +1822,7 @@
                 "address": "San Francisco International Airport Terminal 2  San Francisco CA",
                 "phone": "",
                 "website": "",
-                "storeid": "113"
+                "storeid": "114"
             }
        }
 ,        {
@@ -1822,7 +1838,7 @@
                 "address": "2524 Pacific Ave Venice, CA  90291",
                 "phone": "",
                 "website": "",
-                "storeid": "114"
+                "storeid": "115"
             }
        }
 ,        {
@@ -1838,7 +1854,7 @@
                 "address": "7856 St. Helena Highway  Oakville CA",
                 "phone": "",
                 "website": "",
-                "storeid": "115"
+                "storeid": "116"
             }
        }
 ,        {
@@ -1854,39 +1870,7 @@
                 "address": "1180 East Ojai Avenue Ojai, CA  93023",
                 "phone": "",
                 "website": "",
-                "storeid": "116"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.8115059, 38.548829]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Oliver's Market",
-                "address": "9230 Old Redwood Hwy  Windsor CA",
-                "phone": "",
-                "website": "",
                 "storeid": "117"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.673525, 38.474689]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Oliver's Market",
-                "address": "560 Montecito Center  Santa Rosa CA",
-                "phone": "",
-                "website": "",
-                "storeid": "118"
             }
        }
 ,        {
@@ -1902,7 +1886,39 @@
                 "address": "461 Stony Point Rd  Santa Rosa CA",
                 "phone": "",
                 "website": "",
+                "storeid": "118"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.8115059, 38.548829]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Oliver's Market",
+                "address": "9230 Old Redwood Hwy  Windsor CA",
+                "phone": "",
+                "website": "",
                 "storeid": "119"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.673525, 38.474689]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Oliver's Market",
+                "address": "560 Montecito Center  Santa Rosa CA",
+                "phone": "",
+                "website": "",
+                "storeid": "120"
             }
        }
 ,        {
@@ -1918,7 +1934,7 @@
                 "address": "546 East Cotati Ave  Cotati CA",
                 "phone": "",
                 "website": "",
-                "storeid": "120"
+                "storeid": "121"
             }
        }
 ,        {
@@ -1930,11 +1946,11 @@
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "Organic on the Go/ It's Only Natural",
+                "name": "Organic on the Go It's Only Natural",
                 "address": "118 South Country Road, Bellport, NY 11713",
                 "phone": "",
                 "website": "",
-                "storeid": "121"
+                "storeid": "122"
             }
        }
 ,        {
@@ -1950,7 +1966,7 @@
                 "address": "1745 Sheepshead Bay Rd, Brooklyn, NY 11235",
                 "phone": "",
                 "website": "",
-                "storeid": "122"
+                "storeid": "123"
             }
        }
 ,        {
@@ -1966,7 +1982,7 @@
                 "address": "3930 Judah St, San Francisco, CA 94122",
                 "phone": "",
                 "website": "",
-                "storeid": "123"
+                "storeid": "124"
             }
        }
 ,        {
@@ -1982,7 +1998,7 @@
                 "address": "2804 550 Gravenstein Hwy N, Sebastopol, CA 95472",
                 "phone": "",
                 "website": "",
-                "storeid": "124"
+                "storeid": "125"
             }
        }
 ,        {
@@ -1998,7 +2014,7 @@
                 "address": "11300 CA-1, Point Reyes Station, CA 94956",
                 "phone": "",
                 "website": "",
-                "storeid": "125"
+                "storeid": "126"
             }
        }
 ,        {
@@ -2014,7 +2030,7 @@
                 "address": "203 E. San Antonio Marfa, TX  79843 US",
                 "phone": "",
                 "website": "",
-                "storeid": "126"
+                "storeid": "127"
             }
        }
 ,        {
@@ -2028,22 +2044,6 @@
                 "description": "",
                 "name": "Parkside, The Marketplace",
                 "address": "43 Arenal Ave  Stinson Beach CA",
-                "phone": "",
-                "website": "",
-                "storeid": "127"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.109794430367, 37.418619478216]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Piazza's Fine Foods",
-                "address": "3922 Middlefield Rd, Palo Alto, CA 94303",
                 "phone": "",
                 "website": "",
                 "storeid": "128"
@@ -2068,6 +2068,22 @@
 ,        {
             "geometry": {
                 "type": "Point",
+                "coordinates": [-122.109794430367, 37.418619478216]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Piazza's Fine Foods",
+                "address": "3922 Middlefield Rd, Palo Alto, CA 94303",
+                "phone": "",
+                "website": "",
+                "storeid": "130"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
                 "coordinates": [-122.29919469847, 37.8904003896743]
             },
             "type": "Feature",
@@ -2078,7 +2094,7 @@
                 "address": "862 San Pablo Ave, Albany, CA 94706",
                 "phone": "",
                 "website": "",
-                "storeid": "130"
+                "storeid": "131"
             }
        }
 ,        {
@@ -2094,7 +2110,7 @@
                 "address": "27000 CA-1, Tomales, CA 94971",
                 "phone": "",
                 "website": "",
-                "storeid": "131"
+                "storeid": "132"
             }
        }
 ,        {
@@ -2110,7 +2126,7 @@
                 "address": "149 Cherry St, New Canaan, CT 06840",
                 "phone": "",
                 "website": "",
-                "storeid": "132"
+                "storeid": "133"
             }
        }
 ,        {
@@ -2126,7 +2142,7 @@
                 "address": "1685 Shattuck Ave, Berkeley, CA 94709",
                 "phone": "",
                 "website": "",
-                "storeid": "133"
+                "storeid": "134"
             }
        }
 ,        {
@@ -2142,7 +2158,7 @@
                 "address": "5032 Telegraph Ave  Oakland CA",
                 "phone": "",
                 "website": "",
-                "storeid": "134"
+                "storeid": "135"
             }
        }
 ,        {
@@ -2158,7 +2174,7 @@
                 "address": "1745 Folsom St  San Francisco CA",
                 "phone": "",
                 "website": "",
-                "storeid": "135"
+                "storeid": "136"
             }
        }
 ,        {
@@ -2174,7 +2190,7 @@
                 "address": "1578 Hopkins St  Berkeley CA",
                 "phone": "",
                 "website": "",
-                "storeid": "136"
+                "storeid": "137"
             }
        }
 ,        {
@@ -2190,7 +2206,7 @@
                 "address": "299 Arlington Ave  Kensington CA",
                 "phone": "",
                 "website": "",
-                "storeid": "137"
+                "storeid": "138"
             }
        }
 ,        {
@@ -2206,7 +2222,7 @@
                 "address": "Palo Alto, CA 94306",
                 "phone": "",
                 "website": "",
-                "storeid": "138"
+                "storeid": "139"
             }
        }
 ,        {
@@ -2222,7 +2238,7 @@
                 "address": "2200 Aldrich St Suite 120  Austin TX",
                 "phone": "",
                 "website": "",
-                "storeid": "139"
+                "storeid": "140"
             }
        }
 ,        {
@@ -2238,7 +2254,7 @@
                 "address": "Half Moon Bay CA",
                 "phone": "",
                 "website": "",
-                "storeid": "140"
+                "storeid": "141"
             }
        }
 ,        {
@@ -2254,7 +2270,7 @@
                 "address": "5815 College Ave  Oakland CA",
                 "phone": "",
                 "website": "",
-                "storeid": "141"
+                "storeid": "142"
             }
        }
 ,        {
@@ -2270,7 +2286,7 @@
                 "address": "31535 463rd Ave, Brooten, MN 56316",
                 "phone": "",
                 "website": "",
-                "storeid": "142"
+                "storeid": "143"
             }
        }
 ,        {
@@ -2286,7 +2302,7 @@
                 "address": "Oakland CA",
                 "phone": "",
                 "website": "",
-                "storeid": "143"
+                "storeid": "144"
             }
        }
 ,        {
@@ -2302,7 +2318,7 @@
                 "address": "88 Essex St, Stall 35  New York NY",
                 "phone": "",
                 "website": "",
-                "storeid": "144"
+                "storeid": "145"
             }
        }
 ,        {
@@ -2318,7 +2334,7 @@
                 "address": "6554 Park Blvd, Joshua Tree, CA 92252",
                 "phone": "",
                 "website": "",
-                "storeid": "145"
+                "storeid": "146"
             }
        }
 ,        {
@@ -2334,7 +2350,7 @@
                 "address": "1440 Leimert Blvd  Oakland CA",
                 "phone": "",
                 "website": "",
-                "storeid": "146"
+                "storeid": "147"
             }
        }
 ,        {
@@ -2350,7 +2366,7 @@
                 "address": "288 9th Ave, Oakland, CA 94606",
                 "phone": "",
                 "website": "",
-                "storeid": "147"
+                "storeid": "148"
             }
        }
 ,        {
@@ -2366,7 +2382,7 @@
                 "address": "29 Main St, Ellsworth, ME 04605",
                 "phone": "",
                 "website": "",
-                "storeid": "148"
+                "storeid": "149"
             }
        }
 ,        {
@@ -2382,7 +2398,7 @@
                 "address": "2820 R St, Sacramento, CA 95816",
                 "phone": "",
                 "website": "",
-                "storeid": "149"
+                "storeid": "150"
             }
        }
 ,        {
@@ -2398,7 +2414,7 @@
                 "address": "141 Gough St San Francisco, CA  94102",
                 "phone": "",
                 "website": "",
-                "storeid": "150"
+                "storeid": "151"
             }
        }
 ,        {
@@ -2414,7 +2430,7 @@
                 "address": "1899 Mendocino Ave  Santa Rosa CA",
                 "phone": "",
                 "website": "",
-                "storeid": "151"
+                "storeid": "152"
             }
        }
 ,        {
@@ -2430,7 +2446,7 @@
                 "address": "2087 San Elijo Ave  Cardiff By The Sea CA",
                 "phone": "",
                 "website": "",
-                "storeid": "152"
+                "storeid": "153"
             }
        }
 ,        {
@@ -2446,7 +2462,7 @@
                 "address": "6762 Sebastopol Ave  Sebastopol CA",
                 "phone": "",
                 "website": "",
-                "storeid": "153"
+                "storeid": "154"
             }
        }
 ,        {
@@ -2462,7 +2478,7 @@
                 "address": "428 Center St, Healdsburg, CA 95448",
                 "phone": "",
                 "website": "",
-                "storeid": "154"
+                "storeid": "155"
             }
        }
 ,        {
@@ -2478,7 +2494,7 @@
                 "address": "7051 Willoughby Ave, Los Angeles, CA 90038",
                 "phone": "",
                 "website": "",
-                "storeid": "155"
+                "storeid": "156"
             }
        }
 ,        {
@@ -2494,7 +2510,7 @@
                 "address": "399 Stanford Shopping Center, Palo Alto, CA 94304",
                 "phone": "",
                 "website": "",
-                "storeid": "156"
+                "storeid": "157"
             }
        }
 ,        {
@@ -2510,7 +2526,7 @@
                 "address": "119 S. Second St  Oakland MD",
                 "phone": "",
                 "website": "",
-                "storeid": "157"
+                "storeid": "158"
             }
        }
 ,        {
@@ -2526,7 +2542,7 @@
                 "address": "1255 Monterey St B, San Luis Obispo, CA 93401",
                 "phone": "",
                 "website": "",
-                "storeid": "158"
+                "storeid": "159"
             }
        }
 ,        {
@@ -2542,7 +2558,7 @@
                 "address": "720 N Virgil Ave #4, Los Angeles, CA 90029",
                 "phone": "",
                 "website": "",
-                "storeid": "159"
+                "storeid": "160"
             }
        }
 ,        {
@@ -2558,7 +2574,7 @@
                 "address": "3068 Claremont Ave  Berkeley CA",
                 "phone": "",
                 "website": "",
-                "storeid": "160"
+                "storeid": "161"
             }
        }
 ,        {
@@ -2574,7 +2590,7 @@
                 "address": "39250 CA-1  Gualala CA",
                 "phone": "",
                 "website": "",
-                "storeid": "161"
+                "storeid": "162"
             }
        }
 ,        {
@@ -2590,7 +2606,7 @@
                 "address": "207 S Hale St, Wheaton, IL 60187",
                 "phone": "",
                 "website": "",
-                "storeid": "162"
+                "storeid": "163"
             }
        }
 ,        {
@@ -2606,7 +2622,7 @@
                 "address": "625 W Lake Blvd, Tahoe City, CA 96145",
                 "phone": "",
                 "website": "",
-                "storeid": "163"
+                "storeid": "164"
             }
        }
 ,        {
@@ -2622,7 +2638,7 @@
                 "address": "1954 University Ave, Berkeley, CA 94704",
                 "phone": "",
                 "website": "",
-                "storeid": "164"
+                "storeid": "165"
             }
        }
 ,        {
@@ -2638,7 +2654,7 @@
                 "address": "1504 Shattuck Ave  Berkeley CA",
                 "phone": "",
                 "website": "",
-                "storeid": "165"
+                "storeid": "166"
             }
        }
 ,        {
@@ -2654,7 +2670,7 @@
                 "address": "900 North Point St. Suite K201  San Francisco CA",
                 "phone": "",
                 "website": "",
-                "storeid": "166"
+                "storeid": "167"
             }
        }
 ,        {
@@ -2670,7 +2686,7 @@
                 "address": "168 Main Street Jeffersonville, Vermont 05464",
                 "phone": "",
                 "website": "",
-                "storeid": "167"
+                "storeid": "168"
             }
        }
 ,        {
@@ -2686,7 +2702,7 @@
                 "address": "6475 US HWY 93S Suite 10, Whitefish, MT 59937",
                 "phone": "",
                 "website": "",
-                "storeid": "168"
+                "storeid": "169"
             }
        }
 ,        {
@@ -2702,7 +2718,7 @@
                 "address": "1130 Mission St, Santa Cruz, CA 95060",
                 "phone": "",
                 "website": "",
-                "storeid": "169"
+                "storeid": "170"
             }
        }
 ,        {
@@ -2718,7 +2734,7 @@
                 "address": "3033 MacArthur Blvd, Oakland, CA 94602",
                 "phone": "",
                 "website": "",
-                "storeid": "170"
+                "storeid": "171"
             }
        }
 ,        {
@@ -2734,7 +2750,7 @@
                 "address": "431 State Route 179 Suite #B1, Sedona, AZ 86336",
                 "phone": "",
                 "website": "",
-                "storeid": "171"
+                "storeid": "172"
             }
        }
 ,        {
@@ -2750,7 +2766,7 @@
                 "address": "1217 Graves Harbor Trail Huddleston, VA  24104",
                 "phone": "",
                 "website": "",
-                "storeid": "172"
+                "storeid": "173"
             }
        }
 ,        {
@@ -2766,7 +2782,7 @@
                 "address": "1600 Shattuck Ave Suite 120  Berkeley CA",
                 "phone": "",
                 "website": "",
-                "storeid": "173"
+                "storeid": "174"
             }
        }
 ,        {
@@ -2782,7 +2798,7 @@
                 "address": "2170 W Bayshore Rd, Palo Alto, CA 94303",
                 "phone": "",
                 "website": "",
-                "storeid": "174"
+                "storeid": "175"
             }
        }
 ,        {
@@ -2798,7 +2814,7 @@
                 "address": "213 Stage Road  Pescadero CA",
                 "phone": "",
                 "website": "",
-                "storeid": "175"
+                "storeid": "176"
             }
        }
 ,        {
@@ -2814,7 +2830,7 @@
                 "address": "2 E 15th St, New York, NY 10003",
                 "phone": "",
                 "website": "",
-                "storeid": "176"
+                "storeid": "177"
             }
        }
 ,        {
@@ -2830,7 +2846,7 @@
                 "address": "2701 Eighth St, Berkeley, CA 94710",
                 "phone": "",
                 "website": "",
-                "storeid": "177"
+                "storeid": "178"
             }
        }
 ,        {
@@ -2846,7 +2862,7 @@
                 "address": "Berkeley CA",
                 "phone": "",
                 "website": "",
-                "storeid": "178"
+                "storeid": "179"
             }
        }
 ,        {
@@ -2862,7 +2878,7 @@
                 "address": "925 Corporate Center Pkwy Suite D, Santa Rosa, CA 95407",
                 "phone": "",
                 "website": "",
-                "storeid": "179"
+                "storeid": "180"
             }
        }
 ,        {
@@ -2878,7 +2894,7 @@
                 "address": "1581 University Ave  Berkeley CA",
                 "phone": "",
                 "website": "",
-                "storeid": "180"
+                "storeid": "181"
             }
        }
 ,        {
@@ -2894,7 +2910,7 @@
                 "address": "11250 CA-1, Point Reyes Station, CA 94956",
                 "phone": "",
                 "website": "",
-                "storeid": "181"
+                "storeid": "182"
             }
        }
 ,        {
@@ -2910,7 +2926,7 @@
                 "address": "721 S State St, Ukiah, CA 95482",
                 "phone": "",
                 "website": "",
-                "storeid": "182"
+                "storeid": "183"
             }
        }
 ,        {
@@ -2926,7 +2942,7 @@
                 "address": "3036 Woodburn Ave, Cincinnati, OH 45206",
                 "phone": "",
                 "website": "",
-                "storeid": "183"
+                "storeid": "184"
             }
        }
 ,        {
@@ -2942,7 +2958,7 @@
                 "address": "5885 Broadway Terrace  Oakland CA",
                 "phone": "",
                 "website": "",
-                "storeid": "184"
+                "storeid": "185"
             }
        }
 ,        {
@@ -2958,7 +2974,7 @@
                 "address": "935 NE Couch St, Portland, OR 97232",
                 "phone": "",
                 "website": "",
-                "storeid": "185"
+                "storeid": "186"
             }
        }
 ,        {
@@ -2974,7 +2990,7 @@
                 "address": "2735 NW Crossing Dr Suite #104  Bend OR",
                 "phone": "",
                 "website": "",
-                "storeid": "186"
+                "storeid": "187"
             }
        }
 ,        {
@@ -2990,7 +3006,7 @@
                 "address": "299 Divisadero St, San Francisco, CA 94117",
                 "phone": "",
                 "website": "",
-                "storeid": "187"
+                "storeid": "188"
             }
        }
 ,        {
@@ -3006,7 +3022,7 @@
                 "address": "1550 Tiburon Blvd  Tiburon CA",
                 "phone": "",
                 "website": "",
-                "storeid": "188"
+                "storeid": "189"
             }
        }
 ,        {
@@ -3022,7 +3038,7 @@
                 "address": "735 College Ave  Kentfield CA",
                 "phone": "",
                 "website": "",
-                "storeid": "189"
+                "storeid": "190"
             }
        }
 ,        {
@@ -3038,7 +3054,7 @@
                 "address": "203 Folsom St  San Francisco CA",
                 "phone": "",
                 "website": "",
-                "storeid": "190"
+                "storeid": "191"
             }
        }
 ,        {
@@ -3054,7 +3070,7 @@
                 "address": "830 NW Everett St, Portland, OR 97209",
                 "phone": "",
                 "website": "",
-                "storeid": "191"
+                "storeid": "192"
             }
        }
 ,        {
@@ -3070,7 +3086,7 @@
                 "address": "6114 Washington Blvd Culver City, CA 90232",
                 "phone": "",
                 "website": "",
-                "storeid": "192"
+                "storeid": "193"
             }
        }
 ,        {
@@ -3086,7 +3102,7 @@
                 "address": "1398 University Ave, Berkeley, CA 94702",
                 "phone": "",
                 "website": "",
-                "storeid": "193"
+                "storeid": "194"
             }
        }
 ,        {
@@ -3102,7 +3118,7 @@
                 "address": "Berkeley, CA ",
                 "phone": "",
                 "website": "",
-                "storeid": "194"
+                "storeid": "195"
             }
        }
 ,        {
@@ -3118,7 +3134,7 @@
                 "address": "220 Oak Hill Rd Mt. Top, PA  18707",
                 "phone": "",
                 "website": "",
-                "storeid": "195"
+                "storeid": "196"
             }
        }
     ]
