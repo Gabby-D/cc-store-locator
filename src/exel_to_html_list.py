@@ -55,6 +55,7 @@ def read_excel():
     except Exception as e:
         print('Make sure that all the States and Cities columns are populated...')
     store_list_df = store_list_df.iloc[:, :6].dropna()
+    store_list_df.state = store_list_df.state.apply(lambda x: x.strip())
     store_list_df = store_list_df.sort_values(['state', 'city', 'name', 'address'])
     store_list_df['store'] = store_list_df.city + store_list_df.name + store_list_df.address
     assert store_list_df.columns.to_list() == ['name', 'address', 'longitude', 'latitude', 'state', 'city', 'store']
@@ -119,16 +120,21 @@ class BuildStoresHTML:
                     r1 = (n_stores // 3) + ((n_stores % 3) > 0) * 1
                     r2 = (n_stores // 3) + ((n_stores % 3) == 2) * 1
                     r3 = (n_stores // 3)
-                    col_count = 1
                     multi_col_state = True
+                    close_prev_section = col_count in (2, 3)
+                    col_count = 1
                 else:
                     r = n_stores
                     r1 = 0
                     r2 = 0
                     r3 = 0
-                    multi_col_state = False
+                    multi_col_state, close_prev_section = False, False
 
             # Fixme: does not appear to add proper breaks, avoid adding empty sections, close ROW_HTML
+            if close_prev_section:
+                self.stores_html.append('\t</div>\n')
+                close_prev_section = False
+
             # Column start
             if row_count == 0:
                 # Start new Column
@@ -168,7 +174,7 @@ class BuildStoresHTML:
                 self.stores_html.append('\t</div>\n')
 
         # End the HTML
-        self.stores_html.append('\t</div>')
+        # self.stores_html.append('\t</div>')
         self.stores_html.append('</div>')
 
         assert store_count == df.shape[0], 'Did not process all stores...\n'
