@@ -4,14 +4,14 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-74.0311060243826, 40.6230001646739]
+                "coordinates": [-120.27876350869, 34.7444421274993]
             },
             "type": "Feature",
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "ALC Italian Grocery",
-                "address": "8613 3rd Ave, Brooklyn, NY 11209",
+                "name": "Alamo Motel ",
+                "address": "425 Bell St, Los Alamos, CA ",
                 "phone": "",
                 "website": "",
                 "storeid": "001"
@@ -20,14 +20,14 @@
 ,        {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-120.27876350869, 34.7444421274993]
+                "coordinates": [-89.3688057732963, 43.0812578841772]
             },
             "type": "Feature",
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "Alamo Motel ",
-                "address": "425 Bell Street Los Alamos, CA 93440",
+                "name": "Alimentari ",
+                "address": "306 South Brearly St, Madison, WI",
                 "phone": "",
                 "website": "",
                 "storeid": "002"
@@ -43,7 +43,7 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Andronico's Community Markets",
-                "address": "690 Fremont Ave  Los Altos CA",
+                "address": "690 Fremont Ave, Los Altos CA",
                 "phone": "",
                 "website": "",
                 "storeid": "003"
@@ -59,7 +59,7 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Andronico's Community Markets",
-                "address": "900 Lighthouse Ave  Monterey CA",
+                "address": "900 Lighthouse Ave, Monterey, CA",
                 "phone": "",
                 "website": "",
                 "storeid": "004"
@@ -75,7 +75,7 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Andronico's Community Markets",
-                "address": "100 Center Blvd  San Anselmo CA",
+                "address": "100 Center Blvd, San Anselmo, CA",
                 "phone": "",
                 "website": "",
                 "storeid": "005"
@@ -91,7 +91,7 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Andronico's Community Markets",
-                "address": "375 32nd Ave San Francisco CA 94121",
+                "address": "375 32nd Ave, San Francisco, CA",
                 "phone": "",
                 "website": "",
                 "storeid": "006"
@@ -107,7 +107,7 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Andronico's Community Markets",
-                "address": "1200 Irving St  San Francisco CA",
+                "address": "1200 Irving St, San Francisco, CA",
                 "phone": "",
                 "website": "",
                 "storeid": "007"
@@ -123,7 +123,7 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Andronico's Community Markets",
-                "address": "1550 Shattuck Ave  Berkeley CA",
+                "address": "1550 Shattuck Ave, Berkeley, CA",
                 "phone": "",
                 "website": "",
                 "storeid": "008"
@@ -139,7 +139,7 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Andronico's Community Markets",
-                "address": "1850 Solano Ave  Berkeley CA",
+                "address": "1850 Solano Ave, Berkeley, CA",
                 "phone": "",
                 "website": "",
                 "storeid": "009"
@@ -155,7 +155,7 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Andy's Local Market",
-                "address": "2202 Fifth Ave, San Rafael, CA 94901",
+                "address": "2202 Fifth Ave, San Rafael, CA",
                 "phone": "",
                 "website": "",
                 "storeid": "010"
@@ -171,7 +171,7 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Andy's Local Market",
-                "address": "75 Loch Lomond Drive San Rafael, CA  94901",
+                "address": "75 Loch Lomond Dr, San Rafael, CA",
                 "phone": "",
                 "website": "",
                 "storeid": "011"
@@ -187,7 +187,7 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Andy's Local Market",
-                "address": "195 Tamal Vista Blvd, Corte Madera, CA 94925",
+                "address": "195 Tamal Vista Blvd, Corte Madera, CA",
                 "phone": "",
                 "website": "",
                 "storeid": "012"
@@ -203,10 +203,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Anneliese School Store",
-                "address": "1816 S Coast Hwy, Laguna Beach, CA 92651",
+                "address": "1816 S Coast Hwy, Laguna Beach, CA",
                 "phone": "",
                 "website": "",
                 "storeid": "013"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-116.76602109134, 32.8358224157217]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Appel Foods",
+                "address": "2202 Alpine Blvd, Alpine Blvd, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "014"
             }
        }
 ,        {
@@ -219,10 +235,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Apropos",
-                "address": "1701 Duncan Avenue Allison Park, PA  15101",
+                "address": "1701 Duncan Ave, Allison Park, PA",
                 "phone": "",
                 "website": "",
-                "storeid": "014"
+                "storeid": "015"
             }
        }
 ,        {
@@ -235,10 +251,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Arcadia Meat Market",
-                "address": "3950 E Indian School Rd Suite 130 Phoenix, Arizona  85018",
+                "address": "3950 E Indian School Rd, Phoenix, AZ",
                 "phone": "",
                 "website": "",
-                "storeid": "015"
+                "storeid": "016"
             }
        }
 ,        {
@@ -251,10 +267,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Arlo Hotel",
-                "address": "231 Hudson St, New York, NY 10013",
+                "address": "231 Hudson St, New York, NY",
                 "phone": "",
                 "website": "",
-                "storeid": "016"
+                "storeid": "017"
             }
        }
 ,        {
@@ -267,10 +283,42 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Batch USA",
-                "address": "2728 Eugenia Ave, Nashville, TN 37211",
+                "address": "2728 Eugenia Ave, Nashville, TN",
                 "phone": "",
                 "website": "",
-                "storeid": "017"
+                "storeid": "018"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-70.6177166312947, 41.5528410215249]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Bean & Cod",
+                "address": "145 Main St Falmouth, MA",
+                "phone": "",
+                "website": "",
+                "storeid": "019"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-121.537304587523, 36.8456176237516]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Bear's Hideaway",
+                "address": "402 3rd St B, San Juan Bautista, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "020"
             }
        }
 ,        {
@@ -283,10 +331,42 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Beaufort Olive Oil Co.",
-                "address": "Beaufort Olive Oil Co. 300 Front Street Beaufort, NC  28516",
+                "address": "300 Front St, Beaufort, NC",
                 "phone": "",
                 "website": "",
-                "storeid": "018"
+                "storeid": "021"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.7106139101246, 41.4905105114604]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Beet Jar Juicebar",
+                "address": "2860 Detroit Ave 201, Cleveland, OH",
+                "phone": "",
+                "website": "",
+                "storeid": "022"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-84.3787342182977, 33.8385370909528]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Bella Cucina",
+                "address": "270 Buckhead Ave Northeast, Atlanta, GA",
+                "phone": "",
+                "website": "",
+                "storeid": "023"
             }
        }
 ,        {
@@ -298,11 +378,11 @@
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "Bellport General",
-                "address": "138 S Country Rd, Bellport, NY 11713",
+                "name": "Bellport General (Lateral Objects)",
+                "address": "138 S Country Rd, Bellport, NY",
                 "phone": "",
                 "website": "",
-                "storeid": "019"
+                "storeid": "024"
             }
        }
 ,        {
@@ -315,10 +395,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Berkeley Bowl Marketplace",
-                "address": "2020 Oregon St  Berkeley CA",
+                "address": "2020 Oregon St, Berkeley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "020"
+                "storeid": "025"
             }
        }
 ,        {
@@ -330,11 +410,11 @@
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "Berkeley Bowl Marketplace",
-                "address": "920 Heinz Ave  Berkeley CA",
+                "name": "Berkeley Bowl West Marketplace ",
+                "address": "920 Heinz Ave, Berkeley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "021"
+                "storeid": "026"
             }
        }
 ,        {
@@ -347,10 +427,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Berkeley Natural Grocery",
-                "address": "1336 Gilman St  Berkeley CA",
+                "address": "1336 Gilman St, Berkeley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "022"
+                "storeid": "027"
             }
        }
 ,        {
@@ -363,10 +443,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Berkeley Organic Market",
-                "address": "2642 Ashby Ave, Berkeley, CA 94705",
+                "address": "2642 Ashby Ave, Berkeley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "023"
+                "storeid": "028"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.259964833522, 37.8685552280657]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Berkeley Student Food Collective",
+                "address": "2440 Bancroft Way, Berkeley, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "029"
             }
        }
 ,        {
@@ -379,10 +475,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Bi-Rite Market",
-                "address": "3639 18th St  San Francisco CA",
+                "address": "3639 18th St, San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "024"
+                "storeid": "030"
             }
        }
 ,        {
@@ -395,10 +491,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Bi-Rite Market",
-                "address": "542 Divisadero St  San Francisco CA",
+                "address": "542 Divisadero St, San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "025"
+                "storeid": "031"
             }
        }
 ,        {
@@ -411,10 +507,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Bianchini's Market",
-                "address": "810 Laurel Street San Carlos, CA  94070",
+                "address": "810 Laurel St, San Carlos, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "026"
+                "storeid": "032"
             }
        }
 ,        {
@@ -427,26 +523,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Bianchini's Market",
-                "address": "3130 Alpine Road Portola Valley, CA 94028 Suite 415",
+                "address": "3130 Alpine Rd, Portola Valley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "027"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.873925203332, 38.6266314795046]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Big John's",
-                "address": "1345 Healdsburg Ave, Healdsburg, CA 95448",
-                "phone": "",
-                "website": "",
-                "storeid": "028"
+                "storeid": "033"
             }
        }
 ,        {
@@ -459,10 +539,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Bleu Fig",
-                "address": "254 E Main St, Los Gatos, CA 95030",
+                "address": "254 E Main St, Los Gatos, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "029"
+                "storeid": "034"
             }
        }
 ,        {
@@ -475,10 +555,42 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Board at Home",
-                "address": "California",
+                "address": "Online",
                 "phone": "",
                 "website": "",
-                "storeid": "030"
+                "storeid": "035"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-95.4707360871858, 29.7068431266997]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Bodega Bellaire",
+                "address": "5202 Bissonnet St, Bellaire, TX",
+                "phone": "",
+                "website": "",
+                "storeid": "036"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.859413525398, 38.4781460761662]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Bohemian Creamery",
+                "address": "6111 Vine Hill Rd, Sebastopol, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "037"
             }
        }
 ,        {
@@ -491,10 +603,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Breezy Willow Market",
-                "address": "9090 Frederick Rd Ellicott City, MD 21042",
+                "address": "9090 Frederick Rd, Ellicott City, MD",
                 "phone": "",
                 "website": "",
-                "storeid": "031"
+                "storeid": "038"
             }
        }
 ,        {
@@ -507,10 +619,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Briar Patch Food Coop",
-                "address": "290 Sierra College Dr Grass�Valley, CA  95945",
+                "address": "290 Sierra College Dr, Grass Valley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "032"
+                "storeid": "039"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-82.6635346465992, 27.7685785515944]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Brick Street Farms",
+                "address": "2233 3rd Ave S, St Petersburg, FL",
+                "phone": "",
+                "website": "",
+                "storeid": "040"
             }
        }
 ,        {
@@ -523,10 +651,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Broc Cellars",
-                "address": "1300 Fifth St Berkeley, CA  94710",
+                "address": "1300 Fifth St, Berkeley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "033"
+                "storeid": "041"
             }
        }
 ,        {
@@ -539,10 +667,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Cal Mart ",
-                "address": "1491 Lincoln Ave Calistogoa, CA  94515",
+                "address": "1491 Lincoln Ave, Calistoga, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "034"
+                "storeid": "042"
             }
        }
 ,        {
@@ -555,10 +683,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Cal Mart ",
-                "address": "3585 California Street San Francisco, CA  94118",
+                "address": "3585 California St, San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "035"
+                "storeid": "043"
             }
        }
 ,        {
@@ -571,10 +699,42 @@
                 "category": "grocery",
                 "description": "",
                 "name": "California Organics",
-                "address": "135 Argall Way Nevada City, CA  95959",
+                "address": "135 Argall Way Nevada City, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "036"
+                "storeid": "044"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.6517259333527, 43.0954203700834]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Callee1945",
+                "address": "134 Main St, Oneida, NY",
+                "phone": "",
+                "website": "",
+                "storeid": "045"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9482050008942, 40.7122035601297]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Campbell and Co",
+                "address": "502 Lorimer St, Brooklyn, NY",
+                "phone": "",
+                "website": "",
+                "storeid": "046"
             }
        }
 ,        {
@@ -587,26 +747,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Canyon Market",
-                "address": "2815 Diamond St  San Francisco CA",
+                "address": "2815 Diamond St, San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "037"
+                "storeid": "047"
             }
        }
 ,        {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-74.7878838676564, 42.2202470670995]
+                "coordinates": [-80.6286106249486, 41.0265156848644]
             },
             "type": "Feature",
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "Catskills Regional Harvest",
-                "address": "27905 NY-28, Andes, NY 13731",
+                "name": "Cattulo Prime Meats",
+                "address": "7127 Tiffany Blvd, Youngstown, OH",
                 "phone": "",
                 "website": "",
-                "storeid": "038"
+                "storeid": "048"
             }
        }
 ,        {
@@ -619,10 +779,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Cheese Plus",
-                "address": "2001 Polk St  San Francisco CA",
+                "address": "2001 Polk St, San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "039"
+                "storeid": "049"
             }
        }
 ,        {
@@ -635,42 +795,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Chico Natural Foods Cooperative",
-                "address": "818 Main St, Chico, CA 95928",
+                "address": "818 Main St, Chico, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "040"
+                "storeid": "050"
             }
        }
 ,        {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-118.48286773125, 34.0244404693773]
+                "coordinates": [-99.7768254914045, 32.3710256998681]
             },
             "type": "Feature",
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "Co-opportunity Markets",
-                "address": "1525 Broadway Santa Monica, CA  90404-2717",
+                "name": "Cordell's ",
+                "address": "6410 Buffalo Gap Rd, Abilene, TX",
                 "phone": "",
                 "website": "",
-                "storeid": "041"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-118.38590163125, 34.028125889082]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Co-opportunity Markets",
-                "address": "8770 Washington Blvd Ste C Culver City, CA  90232-2390",
-                "phone": "",
-                "website": "",
-                "storeid": "042"
+                "storeid": "051"
             }
        }
 ,        {
@@ -683,10 +827,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Cowgirl Creamery Cheese Shop",
-                "address": "80 4th St  Pt Reyes Station CA",
+                "address": "80 4th St, Pt Reyes Station, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "043"
+                "storeid": "052"
             }
        }
 ,        {
@@ -699,26 +843,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Crop Juice",
-                "address": "2320 Gulf Gate Drive Sarasota, FL  34231",
+                "address": "2320 Gulf Gate Drive, Sarasota, FL",
                 "phone": "",
                 "website": "",
-                "storeid": "044"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-118.121902, 34.168869]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Culture Club",
-                "address": "101 1392 E Washington Blvd  Pasadena CA",
-                "phone": "",
-                "website": "",
-                "storeid": "045"
+                "storeid": "053"
             }
        }
 ,        {
@@ -731,10 +859,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Davis Food Co-op",
-                "address": "620 G Street Davis, CA  95616",
+                "address": "620 G St, Davis, CA ",
                 "phone": "",
                 "website": "",
-                "storeid": "046"
+                "storeid": "054"
             }
        }
 ,        {
@@ -747,10 +875,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Decant SF",
-                "address": "1168 Folsom St  San Francisco CA",
+                "address": "1168 Folsom St, San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "047"
+                "storeid": "055"
             }
        }
 ,        {
@@ -763,10 +891,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Delta Farmer's Market ",
-                "address": "2510 State Hwy 12  Isleton CA",
+                "address": "2510 State Hwy 12, Isleton, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "048"
+                "storeid": "056"
             }
        }
 ,        {
@@ -779,10 +907,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Diablo Foods",
-                "address": "3615 Mt Diablo Blvd  Lafayette CA",
+                "address": "3615 Mt Diablo Blvd, Lafayette, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "049"
+                "storeid": "057"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.648698102705, 41.9325406206768]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Dom's Market",
+                "address": "2730 N Halsted St, Chicago, IL",
+                "phone": "",
+                "website": "",
+                "storeid": "058"
             }
        }
 ,        {
@@ -795,42 +939,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Dorcich Family Vineyards",
-                "address": "11775 Watsonville Rd  Gilroy CA",
+                "address": "11775 Watsonville Rd, Gilroy, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "050"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.185570488159, 37.4491365740778]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Draeger's Market",
-                "address": "1010 University Dr, Menlo Park, CA 94025",
-                "phone": "",
-                "website": "",
-                "storeid": "051"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-121.918790184713, 37.8012393665262]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Draeger's Market",
-                "address": "4100 Blackhawk Plaza Circle Danville CA 94506",
-                "phone": "",
-                "website": "",
-                "storeid": "052"
+                "storeid": "059"
             }
        }
 ,        {
@@ -843,10 +955,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Draeger's Market",
-                "address": "342 1st St, Los Altos, CA 94022",
+                "address": "342 1st St, Los Altos, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "053"
+                "storeid": "060"
             }
        }
 ,        {
@@ -859,10 +971,58 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Draeger's Market",
-                "address": "222 E 4th Ave  San Mateo CA",
+                "address": "222 E 4th Ave, San Mateo, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "054"
+                "storeid": "061"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-121.918790184713, 37.8012393665262]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Draeger's Market",
+                "address": "4100 Blackhawk Plaza Circle, Danville, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "062"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.185570488159, 37.4491365740778]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Draeger's Market",
+                "address": "1010 University Dr, Menlo Park, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "063"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-80.7416273028622, 37.0017725764429]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Draper Mercantile",
+                "address": "3054 Greenbriar Rd, Draper, VA",
+                "phone": "",
+                "website": "",
+                "storeid": "064"
             }
        }
 ,        {
@@ -878,7 +1038,23 @@
                 "address": "200 Caledonia St  Sausalito CA",
                 "phone": "",
                 "website": "",
-                "storeid": "055"
+                "storeid": "065"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.6386069296911, 41.8902403684172]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "East Bank Club",
+                "address": "500 N Kingsbury St, Chicago, IL",
+                "phone": "",
+                "website": "",
+                "storeid": "066"
             }
        }
 ,        {
@@ -891,26 +1067,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Eastport General Store",
-                "address": "510B Montauk Hwy, Eastport, NY 11941",
+                "address": "510B Montauk Hwy, Eastport, NY",
                 "phone": "",
                 "website": "",
-                "storeid": "056"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-119.4179, 36.7783]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Eat Like Buddahs",
-                "address": "California",
-                "phone": "",
-                "website": "",
-                "storeid": "057"
+                "storeid": "067"
             }
        }
 ,        {
@@ -923,10 +1083,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Eat with the Seasons",
-                "address": "1925 Jerrold Ave San Francisco, CA  94124",
+                "address": "1925 Jerrold Ave, San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "058"
+                "storeid": "068"
             }
        }
 ,        {
@@ -939,10 +1099,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "El Cerrito Natural Grocery",
-                "address": "10367 San Pablo Ave  El Cerrito CA",
+                "address": "10367 San Pablo Ave, El Cerrito, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "059"
+                "storeid": "069"
             }
        }
 ,        {
@@ -955,10 +1115,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "El Cerrito Natural Grocery Prepared Food Annex",
-                "address": "10367 San Pablo Ave  El Cerrito CA",
+                "address": "10367 San Pablo Ave, El Cerrito, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "060"
+                "storeid": "070"
             }
        }
 ,        {
@@ -971,90 +1131,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Elroy's Fine Foods",
-                "address": "15 Soledad Dr, Monterey, CA 93940",
+                "address": "15 Soledad Dr, Monterey, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "061"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-118.4621998, 33.9897855]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Erewhon Market",
-                "address": "585 Venice Blvd  Venice CA",
-                "phone": "",
-                "website": "",
-                "storeid": "062"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-118.4752192, 34.037524]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Erewhon Market",
-                "address": "2800 Wilshire Blvd  Santa Monica CA",
-                "phone": "",
-                "website": "",
-                "storeid": "063"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-118.525608, 34.047615]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Erewhon Market",
-                "address": "15285 W. Sunset Blvd  Pacific Palisades CA",
-                "phone": "",
-                "website": "",
-                "storeid": "064"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-118.282402674469, 34.0921079172094]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Erewhon Market",
-                "address": "4121 Santa Monica Blvd, Silver Lake, CA 90029",
-                "phone": "",
-                "website": "",
-                "storeid": "065"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-118.1427666, 34.0256349]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Erewhon Market",
-                "address": "7660 E Beverly Blvd  Los Angeles CA",
-                "phone": "",
-                "website": "",
-                "storeid": "066"
+                "storeid": "071"
             }
        }
 ,        {
@@ -1067,10 +1147,106 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Erewhon Market",
-                "address": "26767 Agoura Road  Calabasas CA",
+                "address": "26767 Agoura Rd, Calabasas, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "067"
+                "storeid": "072"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-118.1427666, 34.0256349]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Erewhon Market",
+                "address": "7660 E Beverly Blvd, Los Angeles, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "073"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-118.282402674469, 34.0921079172094]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Erewhon Market",
+                "address": "4121 Santa Monica Blvd, Silver Lake, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "074"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-118.4621998, 33.9897855]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Erewhon Market",
+                "address": "585 Venice Blvd, Venice, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "075"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-118.525608, 34.047615]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Erewhon Market",
+                "address": "15285 W. Sunset Blvd,  Pacific Palisades, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "076"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-118.4752192, 34.037524]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Erewhon Market",
+                "address": "2800 Wilshire Blvd, Santa Monica, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "077"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-118.41220904951, 34.1458387842493]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Erewhon Market",
+                "address": "12833 Ventura Blvd, Studio City, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "078"
             }
        }
 ,        {
@@ -1083,10 +1259,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Farm Fresh to You",
-                "address": "California",
+                "address": "Online",
                 "phone": "",
                 "website": "",
-                "storeid": "068"
+                "storeid": "079"
             }
        }
 ,        {
@@ -1099,10 +1275,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Farmer Joe's",
-                "address": "3426 Fruitvale Ave, Oakland, CA 94602",
+                "address": "3426 Fruitvale Ave, Oakland, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "069"
+                "storeid": "080"
             }
        }
 ,        {
@@ -1115,10 +1291,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Fig & Honey",
-                "address": "938 Fulton Street Fresno, CA 93721",
+                "address": "938 Fulton St, Fresno, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "070"
+                "storeid": "081"
             }
        }
 ,        {
@@ -1131,10 +1307,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Firefly Farms",
-                "address": "107 S Main St  Accident MD",
+                "address": "107 S Main St, Accident, MD",
                 "phone": "",
                 "website": "",
-                "storeid": "071"
+                "storeid": "082"
             }
        }
 ,        {
@@ -1146,11 +1322,11 @@
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "Flour Craft",
-                "address": "702 San Anselmo Ave, San Anselmo, CA 94960",
+                "name": "Flour Craft ",
+                "address": "702 San Anselmo Ave, San Anselmo, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "072"
+                "storeid": "083"
             }
        }
 ,        {
@@ -1163,10 +1339,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Folk Detroit",
-                "address": "Detroit Michigan ",
+                "address": "1701 Trumbull, Detroit, MI",
                 "phone": "",
                 "website": "",
-                "storeid": "073"
+                "storeid": "084"
             }
        }
 ,        {
@@ -1179,26 +1355,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Foodhall",
-                "address": "3100 16th St. San Francisco, CA  941033328",
+                "address": "3100 16th St, San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "074"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-87.7590628570392, 42.1342689209891]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Foodstuffs",
-                "address": "338 Park Ave  Glencoe IL",
-                "phone": "",
-                "website": "",
-                "storeid": "075"
+                "storeid": "085"
             }
        }
 ,        {
@@ -1211,10 +1371,42 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Foodstuffs",
-                "address": "2106 Central St  Evanston IL",
+                "address": "2106 Central St, Evanston, IL",
                 "phone": "",
                 "website": "",
-                "storeid": "076"
+                "storeid": "086"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.7590628570392, 42.1342689209891]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Foodstuffs",
+                "address": "338 Park Ave, Glencoe, IL",
+                "phone": "",
+                "website": "",
+                "storeid": "087"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.7996217604331, 42.0818935554927]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Foodstuffs",
+                "address": "1454 Waukegan Rd, Glenview, IL",
+                "phone": "",
+                "website": "",
+                "storeid": "088"
             }
        }
 ,        {
@@ -1227,10 +1419,154 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Fount Board and Table",
-                "address": "2414 Routh St, Dallas, TX 75201",
+                "address": "2414 Routh St, Dallas, TX",
                 "phone": "",
                 "website": "",
-                "storeid": "077"
+                "storeid": "089"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.6290357101109, 41.9018552844227]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Foxtrot Goldcoast",
+                "address": "23 W Maple St, Chicago, IL",
+                "phone": "",
+                "website": "",
+                "storeid": "090"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.6333834254548, 41.8897066218951]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Foxtrot Hubbard",
+                "address": "401 N Wells St, Chicago, IL",
+                "phone": "",
+                "website": "",
+                "storeid": "091"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.6504408701671, 41.9183756121156]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Foxtrot Lincoln Park",
+                "address": "902 W Armitage Ave, Chicago, IL",
+                "phone": "",
+                "website": "",
+                "storeid": "092"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.6765334143469, 41.9101054069381]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Foxtrot Milwaukee & Damen",
+                "address": "1576 N Milwaukee Ave, Chicago, IL",
+                "phone": "",
+                "website": "",
+                "storeid": "093"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.6346595794235, 41.9110313687611]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Foxtrot Old Town",
+                "address": "1562 N Wells St, Chicago, IL",
+                "phone": "",
+                "website": "",
+                "storeid": "094"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.6636367027046, 41.9427837237691]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Foxtrot Southport",
+                "address": "3334 N Southport Ave, Chicago, IL",
+                "phone": "",
+                "website": "",
+                "storeid": "095"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.6167299738705, 41.8923752104176]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Foxtrot Streeterville",
+                "address": "535 N McClurg Ct, Chicago, IL",
+                "phone": "",
+                "website": "",
+                "storeid": "096"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.651360182531, 41.8858011068364]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Foxtrot West Loop",
+                "address": "1019 W Lake St, Chicago, IL",
+                "phone": "",
+                "website": "",
+                "storeid": "097"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.6703507180495, 41.9037057820791]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Foxtrot Wicker Park",
+                "address": "1722 W Division St, Chicago, IL",
+                "phone": "",
+                "website": "",
+                "storeid": "098"
             }
        }
 ,        {
@@ -1243,10 +1579,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Franklin Bros Market",
-                "address": "901 Bancroft Way  Berkeley CA",
+                "address": "901 Bancroft Way,  Berkeley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "078"
+                "storeid": "099"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-84.2800442244752, 30.4614713365686]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Garden & Graze",
+                "address": "1635 N Monroe St, Tallahassee, FL",
+                "phone": "",
+                "website": "",
+                "storeid": "100"
             }
        }
 ,        {
@@ -1259,10 +1611,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Golden Sage Market",
-                "address": "463 N Palm Canyon Dr, Palm Springs, CA 92262",
+                "address": "463 N Palm Canyon Dr, Palm Springs, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "079"
+                "storeid": "101"
             }
        }
 ,        {
@@ -1275,10 +1627,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Good Earth Natural Foods",
-                "address": "720 Center Blvd  Fairfax CA",
+                "address": "720 Center Blvd, Fairfax, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "080"
+                "storeid": "102"
             }
        }
 ,        {
@@ -1291,10 +1643,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Good Earth Natural Foods",
-                "address": "201 Flamingo Rd  Mill Valley CA",
+                "address": "201 Flamingo Rd, Mill Valley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "081"
+                "storeid": "103"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.271111, 37.804363]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Good Eggs ",
+                "address": "Online",
+                "phone": "",
+                "website": "",
+                "storeid": "104"
             }
        }
 ,        {
@@ -1307,10 +1675,42 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Grant Street Grocery and Market",
-                "address": "815 S. Grant Ave Casper, WY 82601",
+                "address": "815 S. Grant Ave, Casper, WY",
                 "phone": "",
                 "website": "",
-                "storeid": "082"
+                "storeid": "105"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.3076117585656, 40.7234896276016]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Green Nectar Juicery ",
+                "address": "358 Millburn Ave, Millburn, NJ",
+                "phone": "",
+                "website": "",
+                "storeid": "106"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.956270435817, 40.7298939634164]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "GreenPot",
+                "address": "86 Greenpoint Ave, Brooklyn, NY",
+                "phone": "",
+                "website": "",
+                "storeid": "107"
             }
        }
 ,        {
@@ -1323,10 +1723,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Harvest Market",
-                "address": "171 Boatyard Dr, Fort Bragg, CA 95437",
+                "address": "171 Boatyard Dr, Fort Bragg, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "083"
+                "storeid": "108"
             }
        }
 ,        {
@@ -1339,26 +1739,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Harvest Market",
-                "address": "10501 Lansing St, Mendocino, CA 95460",
+                "address": "10501 Lansing St, Mendocino, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "084"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.41128421724, 37.7618056221618]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Heath Ceramics",
-                "address": "2900 18th St, San Francisco, CA 94110",
-                "phone": "",
-                "website": "",
-                "storeid": "085"
+                "storeid": "109"
             }
        }
 ,        {
@@ -1371,10 +1755,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Helen's Bottle Shop",
-                "address": "2 School St, Manchester-by-the-Sea, MA 01944",
+                "address": "2 School St, Manchester-by-the-Sea, MA",
                 "phone": "",
                 "website": "",
-                "storeid": "086"
+                "storeid": "110"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.1490598720836, 39.9315687195402]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Herman's Coffee",
+                "address": "1313 S 3rd St, Philadelphia, PA",
+                "phone": "",
+                "website": "",
+                "storeid": "111"
             }
        }
 ,        {
@@ -1386,11 +1786,11 @@
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "Hive",
-                "address": "Freehold, NJ  ",
+                "name": "Hive Brand",
+                "address": "Online",
                 "phone": "",
                 "website": "",
-                "storeid": "087"
+                "storeid": "112"
             }
        }
 ,        {
@@ -1403,10 +1803,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Hudson Greens & Goods",
-                "address": "610 1st St #18, Napa, CA 94559",
+                "address": "610 1st St #18, Napa, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "088"
+                "storeid": "113"
             }
        }
 ,        {
@@ -1419,26 +1819,106 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Jeffries General",
-                "address": "1416 2nd St, Napa, CA 94559",
+                "address": "1416 2nd St, Napa, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "089"
+                "storeid": "114"
             }
        }
 ,        {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-122.263442861818, 37.8319139132923]
+                "coordinates": [-117.112833099274, 33.0193526367862]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Jimbo's Naturally 4S Ranch",
+                "address": "10511 4S Commons Dr, San Diego, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "115"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-117.265544172288, 33.0728679347169]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Jimbo's Naturally Carlsbad",
+                "address": "1923 Calle Barcelona, Carlsbad, CA ",
+                "phone": "",
+                "website": "",
+                "storeid": "116"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-117.233068314619, 32.9499663931599]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Jimbo's Naturally Carmel Valley",
+                "address": "12841 El Camino Real, San Diego, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "117"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-117.077055775989, 33.1043988143088]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Jimbo's Naturally Escondido",
+                "address": "1633 S. Centre City Pkwy, Escondido, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "118"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-115.168791277754, 36.123200778789]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "JuiceFarm",
+                "address": "3325 S Las Vegas Blvd, Las Vegas, NV ",
+                "phone": "",
+                "website": "",
+                "storeid": "119"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.2451848777, 37.7618289688789]
             },
             "type": "Feature",
             "properties": {
                 "category": "grocery",
                 "description": "",
                 "name": "Julie's Coffee & Tea Garden",
-                "address": "4316 Telegraph Avenue Oakland CA",
+                "address": "1223 Park St, Alameda, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "090"
+                "storeid": "120"
             }
        }
 ,        {
@@ -1451,10 +1931,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Just Fare ",
-                "address": "Emeryville CA 94608",
+                "address": "Online",
                 "phone": "",
                 "website": "",
-                "storeid": "091"
+                "storeid": "121"
             }
        }
 ,        {
@@ -1467,10 +1947,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Lakeshore Natural Foods",
-                "address": "3321 Lakeshore Ave, Oakland, CA 94610",
+                "address": "3321 Lakeshore Ave, Oakland, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "092"
+                "storeid": "122"
             }
        }
 ,        {
@@ -1483,10 +1963,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Liberty Heights Fresh",
-                "address": "1290 S 1100 E, Salt Lake City, UT 84105",
+                "address": "1290 S 1100 E, Salt Lake City, UT",
                 "phone": "",
                 "website": "",
-                "storeid": "093"
+                "storeid": "123"
             }
        }
 ,        {
@@ -1499,10 +1979,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Local Foods",
-                "address": "2424 Dunstan Rd, Houston, TX 77005",
+                "address": "2424 Dunstan Rd, Houston, TX",
                 "phone": "",
                 "website": "",
-                "storeid": "094"
+                "storeid": "124"
             }
        }
 ,        {
@@ -1515,10 +1995,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Luke's Local",
-                "address": "960 Cole St, San Francisco, CA 94117",
+                "address": "960 Cole St, San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "095"
+                "storeid": "125"
             }
        }
 ,        {
@@ -1531,10 +2011,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Luke's Local",
-                "address": "2190 Union St, San Francisco, CA 94123",
+                "address": "2190 Union St, San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "096"
+                "storeid": "126"
             }
        }
 ,        {
@@ -1547,10 +2027,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Lunchette",
-                "address": "25 4th St, Petaluma, CA 94952",
+                "address": "25 4th St, Petaluma, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "097"
+                "storeid": "127"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.8259423265221, 41.9015346583606]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Main Street Farm",
+                "address": "36 Main St, Livingston Manor, NY",
+                "phone": "",
+                "website": "",
+                "storeid": "128"
             }
        }
 ,        {
@@ -1563,10 +2059,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Mainstay Markets",
-                "address": "655 22nd St, San Francisco, CA 94107",
+                "address": "655 22nd St, San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "098"
+                "storeid": "129"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.709755, 38.137455]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Marin French Cheese",
+                "address": "7500 Red Hill RD, Petaluma, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "130"
             }
        }
 ,        {
@@ -1579,10 +2091,42 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Mariposa Baking Company",
-                "address": "5427 Telegraph Ave D3  Oakland CA",
+                "address": "5427 Telegraph Ave D3, Oakland, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "099"
+                "storeid": "131"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-123.352489523684, 39.40672036410255]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Mariposa Market ",
+                "address": "500 S Main St, Willits, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "132"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-111.5562763083, 40.6826060616754]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Market at Hyatt Hotel",
+                "address": "3551 N. Escala Ct, Park City, UT",
+                "phone": "",
+                "website": "",
+                "storeid": "133"
             }
        }
 ,        {
@@ -1595,10 +2139,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Mavens Market",
-                "address": "720 West Main St  Bozeman MT",
+                "address": "720 West Main St, Bozeman, MT",
                 "phone": "",
                 "website": "",
-                "storeid": "100"
+                "storeid": "134"
             }
        }
 ,        {
@@ -1611,10 +2155,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Mike's Organic Market",
-                "address": "377 Fairfield Ave  Stamford CT",
+                "address": "377 Fairfield Ave, Stamford, CT",
                 "phone": "",
                 "website": "",
-                "storeid": "101"
+                "storeid": "135"
             }
        }
 ,        {
@@ -1627,26 +2171,42 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Milkfarm Artisan Cheese Shop",
-                "address": "2106 Colorado Blvd  Los Angeles CA",
+                "address": "2106 Colorado Blvd, Los Angeles, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "102"
+                "storeid": "136"
             }
        }
 ,        {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-122.5474092, 37.9069772]
+                "coordinates": [-111.494689787404, 40.6423939619185]
             },
             "type": "Feature",
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "Mill Valley Market",
-                "address": "12 Corte Madera Ave  Mill Valley CA",
+                "name": "Mill and Main Provisions",
+                "address": "317 Main St, Park City, UT",
                 "phone": "",
                 "website": "",
-                "storeid": "103"
+                "storeid": "137"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-95.3886534262117, 45.6496361041918]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Minnesota Olive Oil ",
+                "address": "16 First St SE, Glenwood, MN",
+                "phone": "",
+                "website": "",
+                "storeid": "138"
             }
        }
 ,        {
@@ -1659,138 +2219,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Miracle Plum",
-                "address": "208 Davis St  Santa Rosa CA",
+                "address": "208 Davis St, Santa Rosa, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "104"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.4523297, 37.7447893999999]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Mollie Stone's Markets",
-                "address": "635 Portola Dr  San Francisco CA",
-                "phone": "",
-                "website": "",
-                "storeid": "105"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.2898904, 37.5292284]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Mollie Stone's Markets",
-                "address": "49 W 42nd Ave  San Mateo CA",
-                "phone": "",
-                "website": "",
-                "storeid": "106"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.142956, 37.4289511]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Mollie Stone's Markets",
-                "address": "164 California  Palo Alto CA",
-                "phone": "",
-                "website": "",
-                "storeid": "107"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.5243141, 37.9456634]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Mollie Stone's Markets",
-                "address": "270 Bon Air Center  Greenbrae CA",
-                "phone": "",
-                "website": "",
-                "storeid": "108"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.4995249, 37.8666543]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Mollie Stone's Markets",
-                "address": "100 Harbor Dr  Sausalito CA",
-                "phone": "",
-                "website": "",
-                "storeid": "109"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.4363285, 37.7606086]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Mollie Stone's Markets",
-                "address": "4201 18th St  San Francisco CA",
-                "phone": "",
-                "website": "",
-                "storeid": "110"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.350384, 37.5772168]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Mollie Stone's Markets",
-                "address": "1477 Chapin Ave  Burlingame CA",
-                "phone": "",
-                "website": "",
-                "storeid": "111"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.4273479, 37.6260556]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Mollie Stone's Markets",
-                "address": "22 Bayhill Shopping Center  San Bruno CA",
-                "phone": "",
-                "website": "",
-                "storeid": "112"
+                "storeid": "139"
             }
        }
 ,        {
@@ -1803,10 +2235,138 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Mollie Stone's Markets",
-                "address": "2435 California Ave  San Francisco CA",
+                "address": "2435 California Ave, San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "113"
+                "storeid": "140"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.4523297, 37.7447893999999]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Mollie Stone's Markets",
+                "address": "635 Portola Dr, San Francisco, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "141"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.4995249, 37.8666543]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Mollie Stone's Markets",
+                "address": "100 Harbor Dr, Sausalito, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "142"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.2898904, 37.5292284]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Mollie Stone's Markets",
+                "address": "49 W 42nd Ave, San Mateo, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "143"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.142956, 37.4289511]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Mollie Stone's Markets",
+                "address": "164 California, Palo Alto, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "144"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.4363285, 37.7606086]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Mollie Stone's Markets",
+                "address": "4201 18th St, San Francisco, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "145"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.350384, 37.5772168]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Mollie Stone's Markets",
+                "address": "1477 Chapin Ave, Burlingame, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "146"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.4273479, 37.6260556]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Mollie Stone's Markets",
+                "address": "22 Bayhill Shopping Center, San Bruno, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "147"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.5243141, 37.9456634]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Mollie Stone's Markets",
+                "address": "270 Bon Air Center, Greenbrae, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "148"
             }
        }
 ,        {
@@ -1819,10 +2379,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Monterey Market",
-                "address": "1550 Hopkins St  Berkeley CA",
+                "address": "1550 Hopkins St, Berkeley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "114"
+                "storeid": "149"
             }
        }
 ,        {
@@ -1835,10 +2395,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Morongo Valley Fruit Market",
-                "address": "49643 Twentynine Palms Highway, Morongo Valley, CA 92256",
+                "address": "49643 Twentynine Palms Hwy, Morongo Valley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "115"
+                "storeid": "150"
             }
        }
 ,        {
@@ -1851,10 +2411,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Mouth Foods",
-                "address": "Brooklyn, NY 11201",
+                "address": "Online",
                 "phone": "",
                 "website": "",
-                "storeid": "116"
+                "storeid": "151"
             }
        }
 ,        {
@@ -1867,10 +2427,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Mudlab ",
-                "address": "440 Grand Ave, Oakland, CA 94610",
+                "address": "440 Grand Ave, Oakland, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "117"
+                "storeid": "152"
             }
        }
 ,        {
@@ -1883,26 +2443,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Napa Farms Market",
-                "address": "San Francisco International Airport International Terminal G  San Francisco CA",
+                "address": "San Francisco Airport Terminal 2  San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "118"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.3789554, 37.6213129]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Napa Farms Market",
-                "address": "San Francisco International Airport Terminal 2  San Francisco CA",
-                "phone": "",
-                "website": "",
-                "storeid": "119"
+                "storeid": "153"
             }
        }
 ,        {
@@ -1915,10 +2459,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "New Deli",
-                "address": "2524 Pacific Ave Venice, CA  90291",
+                "address": "2524 Pacific Ave Venice, CA ",
                 "phone": "",
                 "website": "",
-                "storeid": "120"
+                "storeid": "154"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.869089367329, 38.6105983667693]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Oakville Grocery",
+                "address": "124 West Matheson St, Healdsburg, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "155"
             }
        }
 ,        {
@@ -1931,10 +2491,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Oakville Grocery",
-                "address": "7856 St. Helena Highway  Oakville CA",
+                "address": "7856 St. Helena Highway, Oakville, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "121"
+                "storeid": "156"
             }
        }
 ,        {
@@ -1947,10 +2507,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Odd Provisions",
-                "address": "3301 11th Street Northwest Washington, DC  20010 ",
+                "address": "3301 11th St Northwest, Washington, DC",
                 "phone": "",
                 "website": "",
-                "storeid": "122"
+                "storeid": "157"
             }
        }
 ,        {
@@ -1963,10 +2523,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Ojai Rancho Inn",
-                "address": "1180 East Ojai Avenue Ojai, CA  93023",
+                "address": "1180 East Ojai Ave, Ojai, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "123"
+                "storeid": "158"
             }
        }
 ,        {
@@ -1979,26 +2539,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Oliver's Market",
-                "address": "9230 Old Redwood Hwy  Windsor CA",
+                "address": "9230 Old Redwood Hwy, Windsor, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "124"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.673525, 38.474689]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Oliver's Market",
-                "address": "560 Montecito Center  Santa Rosa CA",
-                "phone": "",
-                "website": "",
-                "storeid": "125"
+                "storeid": "159"
             }
        }
 ,        {
@@ -2011,10 +2555,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Oliver's Market",
-                "address": "461 Stony Point Rd  Santa Rosa CA",
+                "address": "461 Stony Point Rd, Santa Rosa, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "126"
+                "storeid": "160"
             }
        }
 ,        {
@@ -2027,10 +2571,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Oliver's Market",
-                "address": "546 East Cotati Ave  Cotati CA",
+                "address": "546 East Cotati Ave, Cotati, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "127"
+                "storeid": "161"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.673525, 38.474689]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Oliver's Market",
+                "address": "560 Montecito Center, Santa Rosa, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "162"
             }
        }
 ,        {
@@ -2043,26 +2603,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Orchard Nutrition",
-                "address": "221 Locust St, Redding, CA 96001",
+                "address": "221 Locust St, Redding, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "128"
+                "storeid": "163"
             }
        }
 ,        {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-73.9511412870155, 40.5850242326764]
+                "coordinates": [-122.912989407056, 38.3729324954807]
             },
             "type": "Feature",
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "Orso Coffee",
-                "address": "1745 Sheepshead Bay Rd, Brooklyn, NY 11235",
+                "name": "Osmosis Day Spa",
+                "address": "209 Bohemian Hwy, Freestone, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "129"
+                "storeid": "164"
             }
        }
 ,        {
@@ -2075,10 +2635,42 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Other Avenues Coop",
-                "address": "3930 Judah St, San Francisco, CA 94122",
+                "address": "3930 Judah St, San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "130"
+                "storeid": "165"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.645589289088, 45.5273208398806]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "PPMC Gift Shop",
+                "address": "4805 NE Glisan St, Portland, OR",
+                "phone": "",
+                "website": "",
+                "storeid": "166"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-116.545435404805, 33.8284225817544]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "PS Bottle Shop",
+                "address": "383 N Indian Canyon Dr, Palm Springs, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "167"
             }
        }
 ,        {
@@ -2091,10 +2683,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Pacific Market ",
-                "address": "2804 550 Gravenstein Hwy N, Sebastopol, CA 95472",
+                "address": "2804 550 Gravenstein Hwy N, Sebastopol, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "131"
+                "storeid": "168"
             }
        }
 ,        {
@@ -2107,26 +2699,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Palace Market",
-                "address": "11300 CA-1, Point Reyes Station, CA 94956",
+                "address": "11300 CA-1, Point Reyes Station, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "132"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-104.019100359346, 30.3102214129739]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Para Llevar ",
-                "address": "203 E. San Antonio Marfa, TX  79843 US",
-                "phone": "",
-                "website": "",
-                "storeid": "133"
+                "storeid": "169"
             }
        }
 ,        {
@@ -2139,26 +2715,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Parkside, The Marketplace",
-                "address": "43 Arenal Ave  Stinson Beach CA",
+                "address": "43 Arenal Ave, Stinson Beach, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "134"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.325970277901, 37.5338558904585]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Piazza's Fine Foods",
-                "address": "1218 W Hillsdale Blvd, San Mateo, CA 94403",
-                "phone": "",
-                "website": "",
-                "storeid": "135"
+                "storeid": "170"
             }
        }
 ,        {
@@ -2171,10 +2731,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Piazza's Fine Foods",
-                "address": "3922 Middlefield Rd, Palo Alto, CA 94303",
+                "address": "3922 Middlefield Rd, Palo Alto, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "136"
+                "storeid": "171"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.325970277901, 37.5338558904585]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Piazza's Fine Foods",
+                "address": "1218 W Hillsdale Blvd, San Mateo, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "172"
             }
        }
 ,        {
@@ -2187,10 +2763,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Picnic",
-                "address": "862 San Pablo Ave, Albany, CA 94706",
+                "address": "862 San Pablo Ave, Albany, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "137"
+                "storeid": "173"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.25273974247, 37.8255131424931]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Piedmont Grocery",
+                "address": "4038 Pied­mont Ave, Oak­land, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "174"
             }
        }
 ,        {
@@ -2203,10 +2795,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Piezzi Provisions",
-                "address": "27000 CA-1, Tomales, CA 94971",
+                "address": "27000 CA-1, Tomales, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "138"
+                "storeid": "175"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.986150583424, 40.70302728915]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Plantbelly",
+                "address": "Online",
+                "phone": "",
+                "website": "",
+                "storeid": "176"
             }
        }
 ,        {
@@ -2219,10 +2827,42 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Plum Plums Cheese",
-                "address": "149 Cherry St, New Canaan, CT 06840",
+                "address": "149 Cherry St, New Canaan, CT",
                 "phone": "",
                 "website": "",
-                "storeid": "139"
+                "storeid": "177"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.255391860508, 37.8235213272311]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Pomella",
+                "address": "3770 Piedmont Ave Unit B, Oakland, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "178"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.996253660418, 40.68453168177]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Poppys",
+                "address": "243 Degraw St, Brooklyn, NY",
+                "phone": "",
+                "website": "",
+                "storeid": "179"
             }
        }
 ,        {
@@ -2235,10 +2875,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Poulet",
-                "address": "1685 Shattuck Ave, Berkeley, CA 94709",
+                "address": "1685 Shattuck Ave, Berkeley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "140"
+                "storeid": "180"
             }
        }
 ,        {
@@ -2251,10 +2891,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Preserved ",
-                "address": "5032 Telegraph Ave  Oakland CA",
+                "address": "5032 Telegraph Ave, Oakland, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "141"
+                "storeid": "181"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9954350180873, 40.7647545512723]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Print Provisions",
+                "address": "653 11th Ave, New York, NY",
+                "phone": "",
+                "website": "",
+                "storeid": "182"
             }
        }
 ,        {
@@ -2267,26 +2923,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Rainbow Grocery",
-                "address": "1745 Folsom St  San Francisco CA",
+                "address": "1745 Folsom St, San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "142"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.2816805, 37.8816932]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Raxakoul Coffee & Cheese",
-                "address": "1578 Hopkins St  Berkeley CA",
-                "phone": "",
-                "website": "",
-                "storeid": "143"
+                "storeid": "183"
             }
        }
 ,        {
@@ -2299,10 +2939,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Raxakoul Coffee & Cheese",
-                "address": "299 Arlington Ave  Kensington CA",
+                "address": "299 Arlington Ave, Kensington, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "144"
+                "storeid": "184"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.2816805, 37.8816932]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Raxakoul Coffee & Cheese",
+                "address": "1578 Hopkins St, Berkeley, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "185"
             }
        }
 ,        {
@@ -2315,10 +2971,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Real Food Bay Area",
-                "address": "Palo Alto, CA 94306",
+                "address": "Online",
                 "phone": "",
                 "website": "",
-                "storeid": "145"
+                "storeid": "186"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.1342800847249, 39.9709862516374]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Reap Wellness",
+                "address": "1325 Frankford Ave, Philadelphia, PA",
+                "phone": "",
+                "website": "",
+                "storeid": "187"
             }
        }
 ,        {
@@ -2331,10 +3003,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Rebel Cheese",
-                "address": "2200 Aldrich St Suite 120  Austin TX",
+                "address": "2200 Aldrich St Suite 120, Austin, TX",
                 "phone": "",
                 "website": "",
-                "storeid": "146"
+                "storeid": "188"
             }
        }
 ,        {
@@ -2347,10 +3019,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Rebyl Food",
-                "address": "Half Moon Bay CA",
+                "address": "Online",
                 "phone": "",
                 "website": "",
-                "storeid": "147"
+                "storeid": "189"
             }
        }
 ,        {
@@ -2363,10 +3035,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Redfield Cider Bar & Bottle Shop",
-                "address": "5815 College Ave  Oakland CA",
+                "address": "5815 College Ave, Oakland, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "148"
+                "storeid": "190"
             }
        }
 ,        {
@@ -2379,10 +3051,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Redhead Creamery",
-                "address": "31535 463rd Ave, Brooten, MN 56316",
+                "address": "31535 463rd Ave, Brooten, MN",
                 "phone": "",
                 "website": "",
-                "storeid": "149"
+                "storeid": "191"
             }
        }
 ,        {
@@ -2395,26 +3067,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Ripen",
-                "address": "Oakland CA",
+                "address": "Online",
                 "phone": "",
                 "website": "",
-                "storeid": "150"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-73.988107, 40.7182408]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Riverdel Essex Market",
-                "address": "88 Essex St, Stall 35  New York NY",
-                "phone": "",
-                "website": "",
-                "storeid": "151"
+                "storeid": "192"
             }
        }
 ,        {
@@ -2427,26 +3083,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Road Runner",
-                "address": "6554 Park Blvd, Joshua Tree, CA 92252",
+                "address": "6554 Park Blvd, Joshua Tree, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "152"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.256133055622, 37.7872470295884]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Rocky's Market",
-                "address": "288 9th Ave, Oakland, CA 94606",
-                "phone": "",
-                "website": "",
-                "storeid": "153"
+                "storeid": "193"
             }
        }
 ,        {
@@ -2459,10 +3099,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Rocky's Market",
-                "address": "1440 Leimert Blvd  Oakland CA",
+                "address": "1440 Leimert Blvd, Oakland, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "154"
+                "storeid": "194"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.256133055622, 37.7872470295884]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Rocky's Market",
+                "address": "288 9th Ave, Oakland, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "195"
             }
        }
 ,        {
@@ -2475,10 +3131,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Rooster Brother",
-                "address": "29 Main St, Ellsworth, ME 04605",
+                "address": "29 Main St, Ellsworth, ME",
                 "phone": "",
                 "website": "",
-                "storeid": "155"
+                "storeid": "196"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.7905044204601, 41.1356432523096]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Root2 Rise NY",
+                "address": "359 Manville Rd, Pleasantville, NY",
+                "phone": "",
+                "website": "",
+                "storeid": "197"
             }
        }
 ,        {
@@ -2491,10 +3163,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Rooted Juicery ",
-                "address": "3010 Madison Rd, Cincinnati, OH 45209",
+                "address": "3010 Madison Rd, Cincinnati, OH",
                 "phone": "",
                 "website": "",
-                "storeid": "156"
+                "storeid": "198"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.669727699663, 38.2169917906771]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Rusty Hinges Ranch",
+                "address": "212 Chileno Valley Rd, Petaluma, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "199"
             }
        }
 ,        {
@@ -2507,10 +3195,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Sacramento Natural Foods Coop",
-                "address": "2820 R St, Sacramento, CA 95816",
+                "address": "2820 R St, Sacramento, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "157"
+                "storeid": "200"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.9160467422497, 42.7316948034651]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Sam Smith's Boatyard",
+                "address": "6098 State Highway 80, Cooperstown, NY",
+                "phone": "",
+                "website": "",
+                "storeid": "201"
             }
        }
 ,        {
@@ -2523,10 +3227,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "San Francisco Wine & Cheese",
-                "address": "141 Gough St San Francisco, CA  94102",
+                "address": "141 Gough St, San Francisco, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "158"
+                "storeid": "202"
             }
        }
 ,        {
@@ -2539,10 +3243,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Santa Rosa Community Market",
-                "address": "1899 Mendocino Ave  Santa Rosa CA",
+                "address": "1899 Mendocino Ave, Santa Rosa, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "159"
+                "storeid": "203"
             }
        }
 ,        {
@@ -2555,10 +3259,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Seaside Market",
-                "address": "2087 San Elijo Ave  Cardiff By The Sea CA",
+                "address": "2087 San Elijo Ave, Cardiff By The Sea, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "160"
+                "storeid": "204"
             }
        }
 ,        {
@@ -2571,10 +3275,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Sebastopol Community Market",
-                "address": "6762 Sebastopol Ave  Sebastopol CA",
+                "address": "6762 Sebastopol Ave, Sebastopol, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "161"
+                "storeid": "205"
             }
        }
 ,        {
@@ -2587,10 +3291,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Shelton's Natural Foods Market",
-                "address": "428 Center St, Healdsburg, CA 95448",
+                "address": "428 Center St, Healdsburg, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "162"
+                "storeid": "206"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-70.853819425968, 42.5006447998012]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Shubies",
+                "address": "16 Atlantic Ave, Marblehead, MA",
+                "phone": "",
+                "website": "",
+                "storeid": "207"
             }
        }
 ,        {
@@ -2603,10 +3323,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Sightglass Coffee Roasters",
-                "address": "7051 Willoughby Ave, Los Angeles, CA 90038",
+                "address": "7051 Willoughby Ave, Los Angeles, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "163"
+                "storeid": "208"
             }
        }
 ,        {
@@ -2619,10 +3339,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Sigona's Farmers Market",
-                "address": "399 Stanford Shopping Center, Palo Alto, CA 94304",
+                "address": "399 Stanford Shopping Center, Palo Alto, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "164"
+                "storeid": "209"
             }
        }
 ,        {
@@ -2635,10 +3355,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Sipside Lounge",
-                "address": "119 S. Second St  Oakland MD",
+                "address": "119 S. Second St, Oakland, MD",
                 "phone": "",
                 "website": "",
-                "storeid": "165"
+                "storeid": "210"
             }
        }
 ,        {
@@ -2651,10 +3371,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Slo Provisions",
-                "address": "1255 Monterey St B, San Luis Obispo, CA 93401",
+                "address": "1255 Monterey St B, San Luis Obispo, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "166"
+                "storeid": "211"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.311906074531, 37.9285673840094]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Spa de Esperanza",
+                "address": " 6819 Cutting Blvd, El Cerrito, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "212"
             }
        }
 ,        {
@@ -2666,11 +3402,27 @@
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "Sqirl ",
-                "address": "720 N Virgil Ave #4, Los Angeles, CA 90029",
+                "name": "Sqirl",
+                "address": "720 N Virgil Ave #4, Los Angeles, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "167"
+                "storeid": "213"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.8559534941222, 35.8198602102511]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "St Lucio's Gourmet & Cheese",
+                "address": "2721 Adventist Cir, Morganton, NC",
+                "phone": "",
+                "website": "",
+                "storeid": "214"
             }
        }
 ,        {
@@ -2683,26 +3435,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Star Grocery",
-                "address": "3068 Claremont Ave  Berkeley CA",
+                "address": "3068 Claremont Ave, Berkeley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "168"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-156.676802748112, 20.8715676]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "Sunshine Naturals Market",
-                "address": "626 Front Street #2 Lahaina, HI 96761 ",
-                "phone": "",
-                "website": "",
-                "storeid": "169"
+                "storeid": "215"
             }
        }
 ,        {
@@ -2715,26 +3451,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Surf Market",
-                "address": "39250 CA-1  Gualala CA",
+                "address": "39250 CA-1, Gualala, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "170"
+                "storeid": "216"
             }
        }
 ,        {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-88.1080018735131, 41.8639285015264]
+                "coordinates": [-82.4212728032455, 34.8698865933225]
             },
             "type": "Feature",
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "Sweet Natalie's Gluten Free Bakery",
-                "address": "207 S Hale St, Wheaton, IL 60187",
+                "name": "Swamp Rabbit Cafe & Market",
+                "address": "205 Cedar Lane Rd, Greenville, SC",
                 "phone": "",
                 "website": "",
-                "storeid": "171"
+                "storeid": "217"
             }
        }
 ,        {
@@ -2747,26 +3483,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Tahoe House Bakery & Gourmet",
-                "address": "625 W Lake Blvd, Tahoe City, CA 96145",
+                "address": "625 W Lake Blvd, Tahoe City, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "172"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-122.271722078822, 37.8715848842152]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "The Butcher's Son",
-                "address": "1954 University Ave, Berkeley, CA 94704",
-                "phone": "",
-                "website": "",
-                "storeid": "173"
+                "storeid": "218"
             }
        }
 ,        {
@@ -2779,26 +3499,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "The Cheese Board Collective",
-                "address": "1504 Shattuck Ave  Berkeley CA",
+                "address": "1504 Shattuck Ave, Berkeley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "174"
+                "storeid": "219"
             }
        }
 ,        {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-122.4223763, 37.8056739]
+                "coordinates": [-74.0072279120007, 40.734345292501]
             },
             "type": "Feature",
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "The Cheese School",
-                "address": "900 North Point St. Suite K201  San Francisco CA",
+                "name": "The Elk ",
+                "address": "128 Charles St, New York, NY",
                 "phone": "",
                 "website": "",
-                "storeid": "175"
+                "storeid": "220"
             }
        }
 ,        {
@@ -2811,10 +3531,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "The Farm Store",
-                "address": "168 Main Street Jeffersonville, Vermont 05464",
+                "address": "168 Main St, Jeffersonville, VT",
                 "phone": "",
                 "website": "",
-                "storeid": "176"
+                "storeid": "221"
             }
        }
 ,        {
@@ -2827,10 +3547,42 @@
                 "category": "grocery",
                 "description": "",
                 "name": "The Farmer's Stand",
-                "address": "6475 US HWY 93S Suite 10, Whitefish, MT 59937",
+                "address": "6475 US HWY 93S Suite 10, Whitefish, MT",
                 "phone": "",
                 "website": "",
-                "storeid": "177"
+                "storeid": "222"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.7476872049968, 26.2038509016037]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "The Farmstand at Naples Canning",
+                "address": "12960 Positano Cir, Naples, FL",
+                "phone": "",
+                "website": "",
+                "storeid": "223"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-70.5715294394914, 41.578667720921]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "The Fisherman's Pantry",
+                "address": "34 E Falmouth Hwy, East Falmouth, MA",
+                "phone": "",
+                "website": "",
+                "storeid": "224"
             }
        }
 ,        {
@@ -2843,10 +3595,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "The Food Bin",
-                "address": "1130 Mission St, Santa Cruz, CA 95060",
+                "address": "1130 Mission St, Santa Cruz, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "178"
+                "storeid": "225"
             }
        }
 ,        {
@@ -2859,42 +3611,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "The Food Mill",
-                "address": "3033 MacArthur Blvd, Oakland, CA 94602",
+                "address": "3033 MacArthur Blvd, Oakland, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "179"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-111.761539730796, 34.8613497782403]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "The Hike House",
-                "address": "431 State Route 179 Suite #B1, Sedona, AZ 86336",
-                "phone": "",
-                "website": "",
-                "storeid": "180"
-            }
-       }
-,        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-79.5671437619361, 37.0839744004058]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "grocery",
-                "description": "",
-                "name": "The Landing Restaurant ",
-                "address": "1217 Graves Harbor Trail Huddleston, VA  24104",
-                "phone": "",
-                "website": "",
-                "storeid": "181"
+                "storeid": "226"
             }
        }
 ,        {
@@ -2907,10 +3627,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "The Local Butcher Shop",
-                "address": "1600 Shattuck Ave Suite 120  Berkeley CA",
+                "address": "1600 Shattuck Ave Suite 120, Berkeley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "182"
+                "storeid": "227"
             }
        }
 ,        {
@@ -2923,10 +3643,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "The Market at Edgewood",
-                "address": "2170 W Bayshore Rd, Palo Alto, CA 94303",
+                "address": "2170 W Bayshore Rd, Palo Alto, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "183"
+                "storeid": "228"
             }
        }
 ,        {
@@ -2942,7 +3662,7 @@
                 "address": "14 Del Fino Pl, Carmel Valley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "184"
+                "storeid": "229"
             }
        }
 ,        {
@@ -2955,10 +3675,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "The Sunshine Downtown ",
-                "address": "213 Stage Road  Pescadero CA",
+                "address": "213 Stage Rd, Pescadero, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "185"
+                "storeid": "230"
             }
        }
 ,        {
@@ -2971,10 +3691,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "The Well",
-                "address": "2 E 15th St, New York, NY 10003",
+                "address": "2 E 15th St, New York, NY",
                 "phone": "",
                 "website": "",
-                "storeid": "186"
+                "storeid": "231"
             }
        }
 ,        {
@@ -2987,10 +3707,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Third Culture Bakery",
-                "address": "2701 Eighth St, Berkeley, CA 94710",
+                "address": "2701 Eighth St, Berkeley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "187"
+                "storeid": "232"
             }
        }
 ,        {
@@ -3003,10 +3723,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Third Street Market ",
-                "address": "244 Spokane Ave, Whitefish, MT 59937",
+                "address": "244 Spokane Ave, Whitefish, MT",
                 "phone": "",
                 "website": "",
-                "storeid": "188"
+                "storeid": "233"
             }
        }
 ,        {
@@ -3019,10 +3739,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Thistleco.com",
-                "address": "Berkeley CA",
+                "address": "Online",
                 "phone": "",
                 "website": "",
-                "storeid": "189"
+                "storeid": "234"
             }
        }
 ,        {
@@ -3035,10 +3755,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Three Leaves Foods",
-                "address": "925 Corporate Center Pkwy Suite D, Santa Rosa, CA 95407",
+                "address": "925 Corporate Center Pkwy, Santa Rosa, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "190"
+                "storeid": "235"
             }
        }
 ,        {
@@ -3051,10 +3771,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Three Stone Hearth",
-                "address": "1581 University Ave  Berkeley CA",
+                "address": "1581 University Ave, Berkeley, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "191"
+                "storeid": "236"
             }
        }
 ,        {
@@ -3067,10 +3787,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Toby's Feed Barn",
-                "address": "11250 CA-1, Point Reyes Station, CA 94956",
+                "address": "11250 CA-1, Point Reyes Station, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "192"
+                "storeid": "237"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.8416466432288, 40.5196272649339]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Today's Market",
+                "address": "612 Allegheny River Blvd, Oakmont, PA",
+                "phone": "",
+                "website": "",
+                "storeid": "238"
             }
        }
 ,        {
@@ -3083,10 +3819,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Ukiah Natural Foods Coop",
-                "address": "721 S State St, Ukiah, CA 95482",
+                "address": "721 S State St, Ukiah, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "193"
+                "storeid": "239"
             }
        }
 ,        {
@@ -3099,26 +3835,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Urban Stead Cheese Co.",
-                "address": "3036 Woodburn Ave, Cincinnati, OH 45206",
+                "address": "3036 Woodburn Ave, Cincinnati, OH",
                 "phone": "",
                 "website": "",
-                "storeid": "194"
+                "storeid": "240"
             }
        }
 ,        {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-124.1021347216, 44.322989717178]
+                "coordinates": [-74.2075870873985, 40.8146413776923]
             },
             "type": "Feature",
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "Village Gift Gallery ",
-                "address": "1881 Hwy 101 N, Yachats, OR 97498",
+                "name": "Van Hook Cheese & Grocery ",
+                "address": "111 Grove St, Montclair, NJ",
                 "phone": "",
                 "website": "",
-                "storeid": "195"
+                "storeid": "241"
             }
        }
 ,        {
@@ -3131,10 +3867,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Village Market",
-                "address": "5885 Broadway Terrace  Oakland CA",
+                "address": "5885 Broadway Terrace,  Oakland CA",
                 "phone": "",
                 "website": "",
-                "storeid": "196"
+                "storeid": "242"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.393421052621, 37.7963716713126]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Village Market SF",
+                "address": "One Ferry Plaza, San Francisco, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "243"
             }
        }
 ,        {
@@ -3147,10 +3899,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Wellspent Market",
-                "address": "935 NE Couch St, Portland, OR 97232",
+                "address": "935 NE Couch St, Portland, OR",
                 "phone": "",
                 "website": "",
-                "storeid": "197"
+                "storeid": "244"
             }
        }
 ,        {
@@ -3163,42 +3915,58 @@
                 "category": "grocery",
                 "description": "",
                 "name": "West Coast Provisions",
-                "address": "2735 NW Crossing Dr Suite #104  Bend OR",
+                "address": "2735 NW Crossing Dr, Bend, OR",
                 "phone": "",
                 "website": "",
-                "storeid": "198"
+                "storeid": "245"
             }
        }
 ,        {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-122.437392563569, 37.772089497597]
+                "coordinates": [-122.073103924381, 37.0522295134442]
             },
             "type": "Feature",
             "properties": {
                 "category": "grocery",
                 "description": "",
-                "name": "Wholesome Bakery",
-                "address": "299 Divisadero St, San Francisco, CA 94117",
+                "name": "Wild Roots Market ",
+                "address": "6240 CA-9, Felton, CA",
                 "phone": "",
                 "website": "",
-                "storeid": "199"
+                "storeid": "246"
             }
        }
 ,        {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-77.0574922, 35.5435396]
+                "coordinates": [-71.0010490180379, 42.2473485877849]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "William James Gifts",
+                "address": "1543 Hancock St, Quincy, MA",
+                "phone": "",
+                "website": "",
+                "storeid": "247"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.0574922553377, 35.5435396]
             },
             "type": "Feature",
             "properties": {
                 "category": "grocery",
                 "description": "",
                 "name": "Wine & Words ...& Gourmet",
-                "address": "220 West Main St., Washington, NC 27889",
+                "address": "220 West Main St, Washington, NC",
                 "phone": "",
                 "website": "",
-                "storeid": "200"
+                "storeid": "248"
             }
        }
 ,        {
@@ -3211,10 +3979,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Woodlands Market",
-                "address": "735 College Ave  Kentfield CA",
+                "address": "735 College Ave, Kentfield CA",
                 "phone": "",
                 "website": "",
-                "storeid": "201"
+                "storeid": "249"
             }
        }
 ,        {
@@ -3227,10 +3995,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Woodlands Market",
-                "address": "1550 Tiburon Blvd  Tiburon CA",
+                "address": "1550 Tiburon Blvd, Tiburon CA",
                 "phone": "",
                 "website": "",
-                "storeid": "202"
+                "storeid": "250"
             }
        }
 ,        {
@@ -3243,10 +4011,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Woodlands Market",
-                "address": "203 Folsom St  San Francisco CA",
+                "address": "203 Folsom St, San Francisco CA",
                 "phone": "",
                 "website": "",
-                "storeid": "203"
+                "storeid": "251"
             }
        }
 ,        {
@@ -3259,10 +4027,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "World Foods",
-                "address": "830 NW Everett St, Portland, OR 97209",
+                "address": "830 NW Everett St, Portland, OR",
                 "phone": "",
                 "website": "",
-                "storeid": "204"
+                "storeid": "252"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-117.160191475999, 32.7490336035419]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "XMarket",
+                "address": "3930 Fifth Ave, San Diego, CA",
+                "phone": "",
+                "website": "",
+                "storeid": "253"
             }
        }
 ,        {
@@ -3275,10 +4059,26 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Your Local Hive",
-                "address": "6114 Washington Blvd Culver City, CA 90232",
+                "address": "Online",
                 "phone": "",
                 "website": "",
-                "storeid": "205"
+                "storeid": "254"
+            }
+       }
+,        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-97.6997595202381, 30.4960373050033]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "grocery",
+                "description": "",
+                "name": "Yumday",
+                "address": "1600 Ridge Rock Dr, Round Rock, TX",
+                "phone": "",
+                "website": "",
+                "storeid": "255"
             }
        }
 ,        {
@@ -3291,10 +4091,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "Zero Grocery",
-                "address": "Berkeley, CA ",
+                "address": "Online",
                 "phone": "",
                 "website": "",
-                "storeid": "206"
+                "storeid": "256"
             }
        }
 ,        {
@@ -3307,10 +4107,10 @@
                 "category": "grocery",
                 "description": "",
                 "name": "igourmet",
-                "address": "PA  18707",
+                "address": "Online",
                 "phone": "",
                 "website": "",
-                "storeid": "207"
+                "storeid": "257"
             }
        }
     ]
